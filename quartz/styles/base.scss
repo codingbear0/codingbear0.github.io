@@ -20,10 +20,11 @@ section {
 }
 
 .text-highlight {
-  background-color: var(--textHighlight);
+  background-color: #fff23688;
   padding: 0 0.1rem;
   border-radius: 5px;
 }
+
 ::selection {
   background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
   color: var(--darkgray);
@@ -201,19 +202,11 @@ a {
     }
   }
 
-  & .page-header,
-  & .page-footer {
-    width: $pageWidth;
-    margin-top: 1rem;
-
-    @media all and (max-width: $fullPageWidth) {
-      width: initial;
-    }
-  }
-
   & .page-header {
+    width: $pageWidth;
     margin: $topSpacing auto 0 auto;
     @media all and (max-width: $fullPageWidth) {
+      width: initial;
       margin-top: 2rem;
     }
   }
@@ -467,7 +460,7 @@ td {
 tr {
   border-bottom: 1px solid var(--lightgray);
   &:last-child {
-    border-bottom: none;
+    border-bottom: 2px solid var(--gray);
   }
 }
 

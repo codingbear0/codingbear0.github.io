@@ -8,23 +8,24 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🧠 Bear",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-DG6SE5CSBY",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "codingbear0.github.io",
+    ignorePatterns: ["private", "templates", ".obsidian", "(media)**/(*.md)", "!(*.md)"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        body: "Noto Sans Korean",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
@@ -36,7 +37,6 @@ const config: QuartzConfig = {
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
         },
         darkMode: {
           light: "#161618",
@@ -47,7 +47,6 @@ const config: QuartzConfig = {
           secondary: "#7b97aa",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
         },
       },
     },
