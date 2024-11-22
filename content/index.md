@@ -115,6 +115,7 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
     - b/ Refactoring
 
 - p/ [[/person-kent-beck|Kent Beck]]
+    - b/ [[/book-test-driven-development-by-example|Test Driven Development]]**
     - b/ [[book-tidy-first|Tidy First?]]
 
 - [[/person-robert-c-martin|Robert C. Martin]]**
@@ -126,7 +127,10 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
     - b/ Clean Craftsmanship
     - b/ [[/book-functional-design|Functional Design]]**
 
-- b/ [[book-learning-test-driven-development|Learning Test-Driven Development]]
+- TDD
+    - b/ [[/book-test-driven-development-by-example|Test Driven Development]]**
+    - b/ [[/book-learning-test-driven-development|Learning Test-Driven Development]]
+    - [[/red-green-refactor|Red-Green-Refactor]]
 
 - b/ Design Patterns**
 
@@ -230,7 +234,7 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
     - p/ [[/person-mira-murati|Mira Murati]]
 
 
-### & Life
+### Books
 [Productivity]: #
 - b/ [[book-deep-work|Deep Work]]
     - [[/shallow-work|Shallow Work]]
@@ -294,6 +298,7 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
     - [[/techno-authoritarianism|Techno Authoritarianism]]
         - [[/technocracy|Technocracy]]**
     - [[/techlash|Techlash]]
+- b/ [[book-a-short-history-of-nearly-everything|A Short History of Nearly Everything]]
 
 [SF & Fantasy]: #
 - p/ [[/person-ted-chiang|Ted Chiang]]**
@@ -342,7 +347,6 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 
 [Gears?]: #
 - [[/gears|Gears]]
-    - [[/edc|EDC]]
 - [[/durable-paper-clips|Durable Paper Clips]]
 
 
