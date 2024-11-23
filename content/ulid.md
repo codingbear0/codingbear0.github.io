@@ -1,5 +1,5 @@
 ---
-title: UILD
+title: ULID
 date: 2024-07-16
 tags:
 - TODO
@@ -19,10 +19,7 @@ draft: false
     - No special characters(URL safe)
     - Monotonic sort order(correctly detects and handles the same millisecond)
 
-> [!question] 정확하게 약자가 어떻게 되는거지? **U**niversally unique **L**exicographically sortable **ID**entifier 인가?
-
-
-- binary layout:
+- Binary Layout:
     ```asciidoc
     0                   1                   2                   3
      0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
