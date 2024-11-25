@@ -193,15 +193,7 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 
 [Editors]: #
 - [[emacs|Emacs]]
-    - [[emacs-plus|Emacs Plus]]
-    - [[emacs-lsp|Emacs LSP]]
-    - [[emacs-on-using-emacs-for-20-years|On using Emacs for 20 years]] 
-    - [[emacs-evil|Evil]]
-    - [[emacs-magit|Magit]]
 - [[vim|Vim]]
-    - [[vim-neovim|Neovim]]
-    - [[vim-vimari|Vimari]]**
-    - [[/vim-how-do-i-exit-vim|How do I exit Vim?]]
 - [[lsp|Language Server Protocol]]
 - [[repl|REPL]]
 
@@ -225,140 +217,21 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 [UX/UI]: #
 - [[/apple-human-interface-guidelines|Human Interface Guidelines]]
 
-
 ### AI
 - [[/machine-learning|Machine Learning]]
 - Deep Learning
 - [[/the-3rd-human-and-digital-forum|The 3rd. HUMAN & DIGITAL Forum]]
-    - p/ [[/person-ted-chiang|Ted Chiang]]**
-    - p/ [[/person-mira-murati|Mira Murati]]
-
 
 ### Books
-[Productivity]: #
-- b/ [[book-deep-work|Deep Work]]
-    - [[/shallow-work|Shallow Work]]
-    - p/ [[/person-carl-jung|Carl Jung]]
-    - p/ [[/person-donald-e-knuth|Donald E. Knuth]]
-    - p/ [[/person-walter-issacson|Walter Issacson]]
-    - [[app-flow-app|Flow.app]]
-        - [[/pomodoro|Pomodoro]]
-    - [[app-things3|Things 3]]
-        - [[things3-effective-task-management-with-things|Effective Task Management with Things]]
-- b/ [[/book-stolen-focus|Stolen Focus]]
-- b/ [[/book-do-hard-things-first|Do Hard Things First]]
-- b/ [[/book-getting-things-done|Getting Things Done]] 
-- b/ [[/book-bullet-journal|Bullet Journal]]
-- b/ [[/book-show-your-work|Show Your Work]]
-    - [[/scenius|Scenius]]
+- [[/bookcollection-productivity|Productivity]]
+- [[/bookcollection-business|Business]] 
+- [[/bookcollection-science|Science]]
+- [[/bookcollection-sf-and-fantasy|SF & Fantasy]]
+- [[/bookcollection-classics|Classics]]
+- [[/bookcollection-miscellaneous| Miscellaneous]]
 
-[Digital Garden]: #
-- b/ [[/book-building-a-second-brain|Building a Second Brain]]
-    - [[/digital-hording|Digital Hoarding]]
-    - [[/digital-garden|Digital Garden]]
-    - [[/second-brain|Second Brain]]
-        - [[/quartz-4|Quartz 4]]
-    - [[/zettelkasten|Zettelkasten]]**
-    - [[/kms|Knowledge Management System]]
-
-[Business]: #
-- b/ [[/book-rework|Rework]]
-- b/ [[/book-remote|Remote]]
-- b/ [[/book-shape-up|Shape Up]]
-    - [[/basecamp|Basecamp]]
-    - p/ [[/person-david-heinemeier-hannsson|David Heinemeier Hansson]]
-- b/ [[book-coders-at-work|Coders at Work]]
-    - p/ [[/person-ken-thompson|Ken Thompson]]**
-    - p/ [[/person-douglas-crockford|Douglas Crockford]]
-- p/ [[/person-steve-jobs|Steve Jobs]]
-    - b/ [[/book-steve-jobs|Steve Jobs]]
-    - m/ [[/movie-steve-jobs|Steve Jobs]], 2015
-        - p/ [[/person-aaron-sorkin|Aaron Sorkin]]
-
-[Science]: #
-- b/ [[/book-the-shallows|The Shallows]]
-- b/ [[/book-mind-change|Mind Change]]
-    - [[/digital-wildfire|Digital Wildfire]] 
-    - p/ [[/gutenberg|Gutenberg]]
-        - [[/project-gutenberg|Project Gutenberg]]
-- b/ [[book-organized-mind|Organized Mind]]
-- b/ [[/book-the-end-of-average|The End of Average]]
-- p/ [[/person-daron-acemoglu|Daron Acemoglu]]
-    - b/ [[book-power-and-progress|Power & Progress]]
-        - [[/techno-optimism|Techno-Optimism]]
-        - [[/persuasive-power|Persuasive Power]]
-        - [[/jim-crow-laws|Jim Crow laws]]
-        - [[/panama-canal|Panama Canal]]
-        - [[/technocracy|Technocracy]]**
-    - b/ [[/book-why-nations-fail|Why Nations Fail]]
-- b/ [[/book-linked|Linked]]
-    - p/ [[/person-albert-barabasi|Albert Barabasi]]
-- b/ [[book-the-coming-wave|The Coming Wave]]
-    - [[/tail-risk|Tail Risk]]
-    - [[/techno-authoritarianism|Techno Authoritarianism]]
-        - [[/technocracy|Technocracy]]**
-    - [[/techlash|Techlash]]
-- b/ [[book-a-short-history-of-nearly-everything|A Short History of Nearly Everything]]
-
-[SF & Fantasy]: #
-- p/ [[/person-ted-chiang|Ted Chiang]]**
-    - b/ [[/book-stories-of-your-life-and-others|Stories of Your Life and Others]]
-    - m/ [[movie-arrival|Arrival]], 2016
-    - b/ [[/book-exhalation|Exhalation]]
-        - b/ [[/book-bartleby-the-scrivener|Bartleby, the Scrivener]] **
-        - [[/arecibo-telescope|Arecibo Telescope]]
-        - [[/fermi-paradox|Fermi Paradox]]**
-- b/ [[/book-the-martian|The Martian]]
-- b/ [[/book-project-hail-mary|Project Hail Mary]]
-- b/ Dune**
-- b/ [[/book-the-hitchhikers-guide-to-the-galaxy|The Hitchhiker’s Guide to the Galaxy]]**
-- b/ [[/book-the-three-body-problem|The Three-Body Problem]]
-    - [[/fermi-paradox|Fermi Paradox]]** 
-- b/ [[/book-have-space-suit-will-travel|Have Space Suit, Will Travel]]
-
-- b/ [[/book-all-the-beauty-in-the-world|All the Beauty in the World]]
-- b/ [[/book-tomorrow-and-tomorrow-and-tomorrow|Tomorrow and Tomorrow and Tomorrow]]
-- b/ [[/book-a-song-of-ice-and-fire|A Song of Ice and Fire]]
-    - p/ [[/person-george-r-r-martin|George R. R. Martin]]
-
-
-[Classics]: #
-- b/ [[/book-1984|1984]]
-- b/ [[/book-animal-fram|Animal Farm]]
-- b/ [[/book-moby-dick|Moby-Dick]]
-    - b/ [[book-paradise-lost|Paradise Lost]]**
-- b/ [[/book-bartleby-the-scrivener|Bartleby, the Scrivener]]**
-- b/ [[/book-frankenstein|Frankenstein]]
-    - b/ [[/book-paradise-lost|Paradise Lost]]**
-- b/ [[/book-foust|Faust]]
-- p/ [[/person-lewis-carroll|Lewis Carroll]]
-    - b/ [[/book-alice-in-wonderland|Alice in Wonderland]]
-    - b/ [[/book-through-the-looking-glass-and-what-alice-found-there|Through the Looking-Glass and What Alice Found there]]
-        - [[/red-queen-race|Red Queen’s Race]]
-
-[Games]: #
-- b/ [[/book-blood-sweat-and-pixels|Blood, Sweat, and Pixels]]
-- [[/game-baldurs-gate-3|Baldur’s Gate 3]]
-    - [[/larian-studios|Larian Studios]]
-- [[/game-prince-of-persia|Prince of Persia]]
-    - b/ [[/book-the-making-of-prince-of-persia|The-Making of Price of Persia]]
-    - [[/apple-ii|Apple II]]
-    - [[/assembly-6502|6502 Assembly Language]]**
-
-[Gears?]: #
+### & Others
 - [[/gears|Gears]]
-- [[/durable-paper-clips|Durable Paper Clips]]
-
-
-### Others
-- [[/et-al|et al.]]
 - p/ [[/person-john-maynard-keynes|John Maynard Keynes]]
-- License
-    - [[/license-apache|Apache License]]
-    - [[/license-mit|MIT License]]
-    - [[/license-bsd|BSD License]]
-    - [[/license-cc|CC Licenses]]
-    - [[/license-sil-open-font|SIL Open Font License]]
-- [[/fonts|Fonts]]
-    - [[/coding-fonts|Coding Fonts]]
-    - [[/font-nerd-font|Nerd Font]]
+- [[/font-nerd-font|Nerd Font]] 
+- [[/et-al|et al.]]

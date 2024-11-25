@@ -29,8 +29,6 @@ Single-core 성능은 M4와 M4 Pro가 엇비슷하지만 Multi-core 성능을 �
 > [!question] M4, M4 Pro는 아직 [Mac Benchmarks](https://browser.geekbench.com/mac-benchmarks)에서는 안보이고 개별 검색으로만 확인할 수 있는데, 뭐- 큰 차이는 없겠지?
 
 
-
-
 ### References
-- [보도자료, Apple, M4 Pro 및 M4 Max 칩 공개](https://www.apple.com/kr/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/)
+- [Apple, M4 Pro 및 M4 Max 칩 공개](https://www.apple.com/kr/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/)
 
