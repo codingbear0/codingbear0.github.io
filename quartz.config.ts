@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "codingbear0.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "(media)**/(*.md)", "!(*.md)"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
