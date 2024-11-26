@@ -1,5 +1,5 @@
 ---
-title: Clear Code
+title: Clean Code
 date: 2024-07-15
 tags:
 - Book

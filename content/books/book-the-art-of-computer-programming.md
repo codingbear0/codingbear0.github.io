@@ -14,7 +14,7 @@ draft: false
 | 출판사 |  Addison-Wesley, 1968 |
 
 - The Art of Computer Programming 줄여서 ‘TAOCP’라고 부르는 크고 아름다운 책[^1]:
-    - 저자는 그 [[/author-donald-e-knuth|Donald E. Knuth]].
+    - 저자는 그 [[/person-donald-e-knuth|Donald E. Knuth]].
 - 총 여섯 권으로 구성되어 있고 미완결 상태[^2]:
     - Volume 1. Fundamental Algorithms
     - Volume 2. Seminumerical Algorithms

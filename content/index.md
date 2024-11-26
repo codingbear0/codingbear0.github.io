@@ -72,65 +72,32 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
     - b/ [[/book-code-that-fits-in-your-head|Code That Fits in Your Head]]
 - [[/julia|Julia]]
     - [[/julia-calculus-with-julia|Calculus with Julia]]
-    - b/ [[/book-think-julia|Think Julia]]
-        - p/ [[/person-allen-downey|Allen Downey]]
+    - b/ [[/books/book-think-julia|Think Julia]]
         - [[/snowy-owl|Snowy Owl]]
 - [[/ruby|Ruby]]
-    - [[ruby-on-rails|Ruby on Rails]]
+    - [[/ruby-on-rails|Ruby on Rails]]
     - [[/ruby-for-shell-script|Ruby: a Great Language for Shell Scripts]]
 - [[/lua|Lua]]
 - [[/assembly-6502|6502 Assembly Language]]**
 - [[/markup-language|Markup Language]]
-    - [[/markdown|Markdown]]**
-    - [[/tex|TeX]]
-        - p/ [[/person-donald-e-knuth|Donald E. Knuth]]**
-    - [[/latex|LaTeX]]
-    - [[/YAML|YAML]]
 
 [Computer Science]: #
 - [[project-based-learning|Project based Learning]]
     - [[programming-language-learning-curve|Programming Language Learning Curve]]
     - [[/tiobe-index|TIOBE Index]]
 - [[hackers-news-top-40|The Hackers News Top 40 Books]]
-    - b/ [[/book-sicp|Structure and Interpretation of Computer Programs]]**
-    - b/ [[/book-designing-data-intensive-applications|Designing Data-Intensive Applications]]
-    - b/ The C Programming Language**
-    - b/ [[/book-the-elements-of-computer-systems|The Elements of Computer Systems]]
-    - b/ [[/book-code|Code]]
-    - b/ Crafting Interpreters
-    - b/ Eloquent JavaScript**
-    - b/ [[/book-the-art-of-computer-programming|The Art of Computer Programming]]*
-    - b/ [[/book-concrete-mathematics|Concrete Mathematics]]
-        - p/ [[/person-donald-e-knuth|Donald E. Knuth]]**
-    - b/ The Pragmatic Programmer
-    - b/ Compilers: Principles, Techniques, and Tools
-    - b/ Operating Systems: Three Easy Pieces
-    - b/ Automate the Boring Stuff with Python**
-    - b/ Design Patterns**
-    - b/ [[/book-clean-code|Clean Code]]**
-    - b/ Introduction to Linear Algebra
-    - b/ [[/book-fluent-python|Fluent Python]]**
-    - b/ Code Complete
-    - b/ [[/book-introduction-to-algorithms|Introduction to Algorithms]]**
-    - b/ Refactoring
 
 - p/ [[/person-kent-beck|Kent Beck]]
-    - b/ [[/book-test-driven-development-by-example|Test Driven Development]]**
-    - b/ [[book-tidy-first|Tidy First?]]
+    - b/ [[/books/book-test-driven-development-by-example|Test Driven Development]]**
+    - b/ [[/books/book-tidy-first|Tidy First?]]
 
-- [[/person-robert-c-martin|Robert C. Martin]]**
-    - b/ [[/book-clean-code|Clean Code]]**
-        - [[/sloc|SLOC]]
+- p/ [[/person-robert-c-martin|Robert C. Martin]]**
+    - b/ [[/books/book-clean-code|Clean Code]]**
     - b/ The Clean Coder
     - b/ Clean Architecture
     - b/ Clean Agile
     - b/ Clean Craftsmanship
-    - b/ [[/book-functional-design|Functional Design]]**
-
-- TDD
-    - b/ [[/book-test-driven-development-by-example|Test Driven Development]]**
-    - b/ [[/book-learning-test-driven-development|Learning Test-Driven Development]]
-    - [[/red-green-refactor|Red-Green-Refactor]]
+    - b/ [[/books/book-functional-design|Functional Design]]**
 
 - b/ Design Patterns**
 
@@ -141,14 +108,10 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 - [[/db-sqlite|SQLite]]
 - [[/db-postgresql|PostgreSQL]]
     - [[/db-postgresql-and-uuid-as-primary-key|PostgreSQL and UUID as Primary Key]]
-- b/ [[/book-sql-antipatterns|SQL Antipatterns]]
-- b/ [[/book-sql-cookbook|SQL Cookbok]]
+- b/ [[/books/book-sql-antipatterns|SQL Antipatterns]]
+- b/ [[/books/book-sql-cookbook|SQL Cookbok]]
     - [[lingua franca|Lingua franca]]
     - [[du-jour|du jour]]
-- [[/uuid|UUID]]
-    - [[/monotonicity|Monotonicity]]
-- [[/ulid|ULID]]
-
 
 [Backend]: #
 - [[/container-docker|Docker]]
@@ -158,8 +121,7 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 - [[/container-kops|kOps]]: Kubernetes Operations
 
 - [[/local-first|Local First]]
-    - [[/crdt|CRDT]]
-- [[/fluentd]]
+- /fluentd
 
 
 [VCS]: #
@@ -168,13 +130,7 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
     - [[/git-three-states|The Three States of Git]]
     - [[/git-repository|Git Repository]]
     - b/ [[/book-version-control-with-git|Version Control with Git]]
-
-    ---
-    - [[/git-gitignore|.gitignore]]
-        - [[/git-gitignore-io|gitignore.io]]
-    - b/ [[/book-pro-git|Pro Git]]
-    ---
-    
+    - b/ [[/book-pro-git|Pro Git]]    
 - [[/vcs-conventional-commits|Conventional Commits]]
     - [[/vcs-how-to-write-a-git-commit-message|How to Write a Git Commit Message]]
     - [[/vcs-a-dict-for-good-commit-messages|A Dictionary for Good Commit Messages s]]
@@ -183,13 +139,6 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 
 [Shell]: #
 - [[shell|Shell]]
-    - [[shell-fish|Fish]]
-    - [[shell-fzf|fzf]]
-    - [[shell-tailspin|tailspin]]
-    - [[shell-less|less]]
-    - [[shell-jq|jq]]
-        - [[json|JSON]]**
-    - [[shell-mise|mise]]
 
 [Editors]: #
 - [[emacs|Emacs]]
@@ -199,16 +148,6 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 
 [OS]: #
 - [[/macos|macOS]]
-    - [[/app-homebrew|Homebrew]]
-    - [[/app-raycast|Raycast]]
-    - [[/app-amethyst|Amethyst]]
-    - [[/app-iterm-2|iTerm2]]
-    - [[/app-ia-writer|iA Writer]]
-        - [[/markdown|Markdown]]**
-    - [[/app-devonthink|Devonthink]]
-    - [[/app-espanso|Espanso]]
-    - [[/app-karabiner-elements|Karabiner-Elements]]
-    - [[vim-vimari|Vimari]]**
 - Linux
     - [[/plan-9|Plan 9]]
 - Windows
