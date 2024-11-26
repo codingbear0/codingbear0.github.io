@@ -7,8 +7,8 @@ tags:
 draft: false
 ---
 
-- [[/book-rework|Rework]]
-- [[/book-remote|Remote]]
-- [[/book-shape-up|Shape Up]]
-- [[/book-coders-at-work|Coders at Work]]
-- [[/book-steve-jobs|Steve Jobs]]
+- [[/books/book-rework|Rework]]
+- [[/books/book-remote|Remote]]
+- [[/books/book-shape-up|Shape Up]]
+- [[/books/book-coders-at-work|Coders at Work]]
+- [[/books/book-steve-jobs|Steve Jobs]]

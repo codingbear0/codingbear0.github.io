@@ -20,7 +20,7 @@ draft: false
     - 2019년 7월 18일 작성된 글로 아직까지도 [Medium](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)에서 찾아볼 수 있음
 - 평가:
     - [[golang|Go]] 뿐만 아니라 다른 언어에도 적용할 수 있는 것들이 많아, 한 번쯤 읽어볼 만한 책. 
-    - [[score|점수]]는 3.5/5.
+    - [[/book-rating-criteria|점수]]는 3.5
 
 
 ### References

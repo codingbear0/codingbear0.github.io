@@ -19,7 +19,7 @@ section {
 }
 
 .text-highlight {
-  background-color: #fff23688;
+  background-color: var(--textHighlight);
   padding: 0 0.1rem;
   border-radius: 5px;
 }
@@ -243,12 +243,9 @@ a {
     & .center > article {
       grid-area: grid-center;
     }
-  }
-  
-  & .page-header {
-    margin: $topSpacing auto 0 auto;
-    @media all and (max-width: $fullPageWidth) {
-      margin-top: 2rem;
+
+    & footer {
+      grid-area: grid-footer;
     }
 
     & .center,
@@ -507,6 +504,7 @@ td {
 tr {
   border-bottom: 1px solid var(--lightgray);
   &:last-child {
+    /*border-bottom: none;*/
     border-bottom: 2px solid var(--gray);
   }
 }

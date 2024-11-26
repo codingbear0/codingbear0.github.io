@@ -7,12 +7,12 @@ tags:
 draft: false
 ---
 
-- [[/book-1984|1984]]
-- [[/book-animal-fram|Animal Farm]]
-- [[/book-moby-dick|Moby-Dick]]
-- [[/book-bartleby-the-scrivener|Bartleby, the Scrivener]]
-- [[/book-frankenstein|Frankenstein]]
-- [[/book-paradise-lost|Paradise Lost]]
-- [[/book-foust|Faust]]
-- [[/book-alice-in-wonderland|Alice in Wonderland]]
-- [[/book-through-the-looking-glass-and-what-alice-found-there|Through the Looking-Glass and What Alice Found there]]
+- [[/books/book-1984|1984]]
+- [[/books/book-animal-fram|Animal Farm]]
+- [[/books/book-moby-dick|Moby-Dick]]
+- [[/books/book-bartleby-the-scrivener|Bartleby, the Scrivener]]
+- [[/books/book-frankenstein|Frankenstein]]
+- [[/books/book-paradise-lost|Paradise Lost]]
+- [[/books/book-foust|Faust]]
+- [[/books/book-alice-in-wonderland|Alice in Wonderland]]
+- [[/books/book-through-the-looking-glass-and-what-alice-found-there|Through the Looking-Glass and What Alice Found there]]

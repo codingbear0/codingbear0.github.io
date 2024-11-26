@@ -12,6 +12,7 @@ draft: false
 | 지은이 | Austin Kleon |
 | 출판사 | Workman Publishing Company, 2014 | 
 
+
 - 200여 페이지의 짧은 책.
 - 내용도 제목에서 예상되는 그대로:
     - 온라인으로 공유하면 관심사가 같은 사람들이 알아서 찾아올 것이다라는 이야기.

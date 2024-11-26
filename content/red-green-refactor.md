@@ -2,7 +2,7 @@
 title: Red-Green-Refactor 
 date: 2024-07-22
 tags:
-- Terms
+- Term
 - TDD
 draft: false
 ---
