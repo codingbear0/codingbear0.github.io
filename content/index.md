@@ -19,61 +19,36 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 ---
 ### Coding
 [Algorithms]: #
-- b/ [[/book-the-art-of-computer-programming|The Art of Computer Programming]]**
-    - p/ [[/person-donald-e-knuth|Donald E. Knuth]]**
-- b/ [[book-introduction-to-algorithms|Introduction to Algorithms]]
+- b/ [[/books/book-the-art-of-computer-programming|The Art of Computer Programming]]**
+- b/ [[/books/book-introduction-to-algorithms|Introduction to Algorithms]]
 - B-tree
     
 [Programming Language]: #
 - [[/python|Python]]
-    - [[python-poetry|Poetry]]
-    - doctest
-    - b/ [[/book-fluent-python|Fluent Python]]**
-    - b/ Automate the Boring Stuff with Python**
 - [[/swift|Swift]]
-    - [[swift-6|Swift 6]]
-    - [[swift-testing|Swift Testing]]
 - [[/golang|Go]]
-    - p/ [[/person-ken-thompson|Ken Thompson]]**
-    - b/ [[/book-100-go-mistakes|100 Go Mistakes]]
-    - [[go-comparable|Comparable]]
-    - [[go-sliece|slice]]
-    - [[go-mistakes-nil-empty-slices|nil vs. empty Slice]]
-    - [[go-gc|Garbage Collection]]
 - [[/lisp|Lisp]]
     - [[/common-lisp|Common Lisp]]
     - [[/emacs-lisp|Emacs Lisp]]
     - [[/scheme|Scheme]]
-        - b/ [[/book-sicp|Structure and Interpretation of Computer Programs]]**
+        - b/ [[/books/book-sicp|Structure and Interpretation of Computer Programs]]**
             - [[/scip-why-mit-stopped-teaching-sicp|Why MIT Stopped Teaching SICP]]
-        - b/ [[book-teach-yourself-scheme-in-fixnum-days|Teach Yourself Scheme in Fixnum Days]]
-            - [[/scheme-data-types|Data Types]]
-            - [[/scheme-string|String]]
-            - [[/scheme-vector|Vector]]
-            - [[/scheme-list|List]]
-            - [[/scheme-conversion|Conversions between Data Types]]
-            - [[/scheme-form|Form]]
+        - b/ [[/books/book-teach-yourself-scheme-in-fixnum-days|Teach Yourself Scheme in Fixnum Days]]
     - [[/racket|Racket]]
     - [[/clojure|Clojure]]**
 - [[/c|C]]
     - [[/person-dennis-ritchie|Dennis Ritchie]]**
 - [[/cplusplus|C++]]
 - [[javascript|JavaScript]]
-    - b/ Eloquent JavaScript**
     - p/ [[/person-douglas-crockford|Douglas Crockford]]
-        - [[json|JSON]]**
     - [[/typescript|TypeScript]]
     - [[/nodejs|Node.js]]
     - [[/nodejs-fastify|Fastify]]
 - [[/haskell|Heskell]]
     - [[/functional-programming|Functional Programming]]
 - [[/clojure|Clojure]]**
-    - b/ [[/book-functional-design|Functional Design]]**
-    - b/ [[/book-code-that-fits-in-your-head|Code That Fits in Your Head]]
 - [[/julia|Julia]]
     - [[/julia-calculus-with-julia|Calculus with Julia]]
-    - b/ [[/books/book-think-julia|Think Julia]]
-        - [[/snowy-owl|Snowy Owl]]
 - [[/ruby|Ruby]]
     - [[/ruby-on-rails|Ruby on Rails]]
     - [[/ruby-for-shell-script|Ruby: a Great Language for Shell Scripts]]
