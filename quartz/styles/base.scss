@@ -85,7 +85,7 @@ a {
     line-height: 1.4rem;
 
     &:has(> img) {
-      background-color: none;
+      background-color: transparent;
       border-radius: 0;
       padding: 0;
     }
@@ -504,8 +504,7 @@ td {
 tr {
   border-bottom: 1px solid var(--lightgray);
   &:last-child {
-    /*border-bottom: none;*/
-    border-bottom: 2px solid var(--gray);
+    border-bottom: none;
   }
 }
 
