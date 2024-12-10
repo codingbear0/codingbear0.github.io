@@ -20,49 +20,46 @@ draft: false
     - 중복된 것을 지우고, 읽어볼만한? 것들만 정리.
     - $\to$ 총 38권.
 
-> [!note] 언제 다 읽어보지? 🫨
-
-
-| Title                                             | Author                                 |                          |                           |
-| ------------------------------------------------- | -------------------------------------- | ------------------------ | ------------------------- |
-| Structure and Interpretation of Computer Programs | Harold Abelson, [[/et-al               | et al.]]                 |                           |
-| Designing Data-Intensive Applications             | Martin Kleppmann                       |                          |                           |
-| The C Programming Language                        | Brian W. Kernighan, Dennis M. Ritchie  |                          |                           |
-| [[/book-the-elements-of-computer-systems          | The Elements of Computer Systems]]     | Noam Nisan, et al.       |                           |
-| [[/book-code                                      | Code]]                                 | Charles Petzold          |                           |
-| Crafting Interpreters                             | Robert Nystrom                         |                          |                           |
-| [[/book-eloquent-javascript                       | Eloquent JavaScript]]                  | Marijn Haverbeke         |                           |
-| [[/book-the-art-of-computer-programming           | The Art of Computer Programming]]      | [[/person-donald-e-knuth | Donald E. Knuth]]         |
-| The Pragmatic Programmer                          | Andrew Hunt, David Thomas              |                          |                           |
-| Compilers: Principles, Techniques, and Tools      | Alfred V. Aho, et al.                  |                          |                           |
-| [[/book-concrete-mathematics                      | Concrete Mathematics]]                 | [[/person-donald-e-knuth | Donald E. Knuth]], et al. |
-| [[/book-never-split-the-difference                | Never Split the Difference]]           | Chris Voss               |                           |
-| [[/book-dune                                      | Dune]]                                 | Frank Herbert            |                           |
-| [[/book-the-hitchhikers-guide-to-the-galaxy       | The Hitchhiker’s Guide to the Galaxy]] | Douglas Adams            |                           |
-| Operating Systems: Three Easy Pieces              | Remzi H. Arpaci-Dusseau, et al.        |                          |                           |
-| Automate the Boring Stuff with Python             | Al Sweigart                            |                          |                           |
-| [[/book-the-design-of-everyday-things             | The Design of Everyday Things]]        | Don Norman               |                           |
-| [[/book-the-three-body-problem                    | The Three-Body Problem]]               | Cixin Liu                |                           |
-| Design Patterns                                   | Erich Gamma, et al.                    |                          |                           |
-| [[/book-project-hail-mary                         | Project Hail Mary]]                    | Andy Weir                |                           |
-| [[/book-clean-code                                | Clean Code]]                           | Robert C. Martin         |                           |
-| Introduction to Linear Algebra                    | Gilbert Strang                         |                          |                           |
-| [[/book-fluent-python                             | Fluent Python]]                        | Luciano Ramalho          |                           |
-| [[/book-the-murderbot-diaries                     | The Murderbot Diaries]]                | Martha Wells             |                           |
-| [[/book-a-short-history-of-nearly-everything      | A Short History of Nearly Everything]] | Bill Bryson              |                           |
-| Permutation City                                  | Greg Egan                              |                          |                           |
-| The Lean Startup                                  | Eric Ries                              |                          |                           |
-| Code Complete                                     | Steve McConnell                        |                          |                           |
-| [[/book-introduction-to-algorithms                | Introduction to Algorithms]]           | Thomas H. Cormen, et al. |                           |
-| Refactoring                                       | Martin Fowler                          |                          |                           |
-| [[/book-thinking-fast-and-slow                    | Thinking, Fast and Slow]]              | Daniel Kahneman          |                           |
-| [[/book-1984                                      | 1984]]                                 | George Orwell            |                           |
-| Foundation                                        | Isaac Asimov                           |                          |                           |
-| The Lord of the Rings                             | J. R. R. Tolkien                       |                          |                           |
-| Zero to One                                       | Peter Thiel                            |                          |                           |
-| [[/book-deep-work                                 | Deep Work]]                            | Cal Newport              |                           |
-| [[/book-the-soul-of-a-new-machine                 | The Soul of A New Machine]]            | Tracy Kidder             |                           |
-| [[/book-the-little-schemer                        | The Little Schemer]]                   | Daniel P. Friedman       |                           |
+| Title | Author | | |
+| --- | --- | --- | --- |
+| Structure and Interpretation of Computer Programs | Harold Abelson, [[/et-al| et al.]] |||
+| [[/books/book-designing-data-intensive-applications|Designing Data-Intensive Applications]] | Martin Kleppmann |||
+| The C Programming Language | Brian W. Kernighan, Dennis M. Ritchie |||
+| [[/books/book-the-elements-of-computer-systems | The Elements of Computer Systems]] | Noam Nisan, et al. |||
+| [[/books/book-code|Code]] | Charles Petzold |||
+| Crafting Interpreters | Robert Nystrom |||
+| [[/books/book-eloquent-javascript|Eloquent JavaScript]] | Marijn Haverbeke |||
+| [[/books/book-the-art-of-computer-programming|The Art of Computer Programming]] | [[/person-donald-e-knuth | Donald E. Knuth]] |||
+| The Pragmatic Programmer | Andrew Hunt, David Thomas |||
+| Compilers: Principles, Techniques, and Tools | Alfred V. Aho, et al. |||
+| [[/books/book-concrete-mathematics|Concrete Mathematics]] | [[/person-donald-e-knuth|Donald E. Knuth]], et al. |||
+| [[/books/book-never-split-the-difference|Never Split the Difference]] | Chris Voss |||
+| [[/books/book-dune|Dune]] | Frank Herbert |||
+| [[/book-the-hitchhikers-guide-to-the-galaxy|The Hitchhiker’s Guide to the Galaxy]] | Douglas Adams |||
+| Operating Systems: Three Easy Pieces | Remzi H. Arpaci-Dusseau, et al. |||
+| Automate the Boring Stuff with Python | Al Sweigart |||
+| [[/books/book-the-design-of-everyday-things|The Design of Everyday Things]] | Don Norman |||
+| [[/books/book-the-three-body-problem|The Three-Body Problem]] | Cixin Liu |||
+| Design Patterns | Erich Gamma, et al. |||
+| [[/books/book-project-hail-mary|Project Hail Mary]] | Andy Weir |||
+| [[/books/book-clean-code|Clean Code]] | Robert C. Martin |||
+| Introduction to Linear Algebra | Gilbert Strang |||
+| [[/books/book-fluent-python|Fluent Python]] | Luciano Ramalho |||
+| [[/books/book-the-murderbot-diaries|The Murderbot Diaries]] | Martha Wells |||
+| [[/books/book-a-short-history-of-nearly-everything|A Short History of Nearly Everything]] | Bill Bryson |||
+| Permutation City | Greg Egan |||
+| The Lean Startup | Eric Ries |||
+| Code Complete | Steve McConnell |||
+| [[/books/book-introduction-to-algorithms|Introduction to Algorithms]] | Thomas H. Cormen, et al. |||
+| Refactoring | Martin Fowler |||
+| [[/books/book-thinking-fast-and-slow|Thinking, Fast and Slow]] | Daniel Kahneman |||
+| [[/books/book-1984|1984]] | George Orwell |||
+| Foundation | Isaac Asimov |||
+| The Lord of the Rings | J. R. R. Tolkien |||
+| Zero to One | Peter Thiel |||
+| [[/books/book-deep-work|Deep Work]] | Cal Newport |||
+| [[/books/book-the-soul-of-a-new-machine|The Soul of A New Machine]] | Tracy Kidder |||
+| [[/books/book-the-little-schemer|The Little Schemer]] | Daniel P. Friedman |||
 
 
 ### References

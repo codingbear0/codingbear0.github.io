@@ -16,8 +16,8 @@ draft: false
 - [[/app-flow-app|Flow.app]]
 - [Itsycal](https://www.mowglii.com/itsycal/)
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
-- [[/app-karabiner-elements|Karabiner-Elements]]
-- [[/app-espanso|Espanso]]
+- ~~[[/app-karabiner-elements|Karabiner-Elements]]~~
+- ~~[[/app-espanso|Espanso]]~~
 
 
 
