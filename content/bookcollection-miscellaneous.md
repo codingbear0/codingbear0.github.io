@@ -4,7 +4,7 @@ title: |
 date: 2024-11-25
 tags:
 - Book
-draft: false
+draft: true
 ---
 
 - [[/books/book-all-the-beauty-in-the-world|All the Beauty in the World]]

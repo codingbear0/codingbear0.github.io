@@ -4,7 +4,7 @@ date: 2024-07-22
 tags:
 - Term
 - TDD
-draft: false
+draft: true
 ---
 
 - [[/person-kent-beck|Kent Beck]]의 [[/book-test-driven-development-by-example|Test Driven Development]]에서 언급된 세 단계로 구성된 TDD 개발 과정:

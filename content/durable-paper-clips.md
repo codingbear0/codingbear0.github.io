@@ -4,7 +4,7 @@ date: 2024-07-01
 tags:
 - Durable
 - Office Supply
-draft: false
+draft: true
 ---
 
 - 독일의 사무용품 제조사 Durable의 페이퍼 클립<sub>paper clip</sub>:

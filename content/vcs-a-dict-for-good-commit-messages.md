@@ -3,7 +3,7 @@ title: A Dictionary for Good Commit Messages
 date: 2024-06-23
 tags:
 - VCS
-draft: false
+draft: true
 ---
 
 - 좋은 git commit 메시지를 위한 영어 사전

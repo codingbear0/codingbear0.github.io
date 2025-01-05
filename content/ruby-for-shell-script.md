@@ -5,7 +5,7 @@ date: 2024-07-04
 tags:
 - Ruby
 - Shell Script
-draft: false
+draft: true
 ---
 
 > [!quote] Non-goals: Replace entirely Bash scripts by Ruby scripts.

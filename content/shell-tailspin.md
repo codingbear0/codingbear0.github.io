@@ -3,7 +3,7 @@ title: tailspin
 date: 2024-06-23
 tags:
 - Shell
-draft: false
+draft: true
 ---
 
 > [!quote] A log file highlighter

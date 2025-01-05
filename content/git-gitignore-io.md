@@ -3,7 +3,7 @@ title: gitignore.io
 date:
 tags:
 - Git
-draft: false
+draft: true
 ---
 
 

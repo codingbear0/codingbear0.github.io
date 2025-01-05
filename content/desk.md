@@ -4,7 +4,7 @@ date: 2024-11-23
 tags:
 - Workspace
 - Desk
-draft: false
+draft: true
 ---
 
 책상에 대한 짧은? 생각들.

@@ -3,7 +3,7 @@ title: Robert C. Martin
 data: 2024-07-14
 tags:
 - Person
-draft: false
+draft: true
 ---
 
 - 자신의 이름을 딴 Robert Martin 시리즈[^1] 책으로 많이 알려진 인물:

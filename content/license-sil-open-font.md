@@ -3,7 +3,7 @@ title: SIL Open Font License
 date: 2024-07-07
 tags:
 - License
-draft: false
+draft: true
 ---
 
 - SIL Open Font License, 줄여서 OFL이라고도 표기.

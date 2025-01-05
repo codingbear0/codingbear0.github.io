@@ -3,7 +3,7 @@ title: Fermi Paradox
 date: 2024-07-13
 tags: 
 - Terms
-draft: false
+draft: true
 ---
 
 - 이탈리아 물리학자 Enrico Fermi가 점심 식사 중에 다른 물리학자들과 외계 생명체에 대한 토론 중에 “But where is everybody?”라고 한데서 유래됐다고.

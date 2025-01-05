@@ -3,7 +3,7 @@ title: Coding Fonts
 date: 2024-07-16
 tags:
 - Font
-draft: false
+draft: true
 ---
 
 - 현재 쓰고 있는 혹은 이전에 사용했던 코딩 폰트<sub>coding font</sub> 목록.

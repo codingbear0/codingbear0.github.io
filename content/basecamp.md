@@ -3,7 +3,7 @@ title: Basecamp
 date: 2023-07-26
 tags: 
 - Corporation
-draft: false
+draft: true
 ---
 
 

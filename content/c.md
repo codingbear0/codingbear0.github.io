@@ -4,7 +4,7 @@ date: 2024-07-07
 tags:
 - Programming Language
 - C
-draft: false
+draft: true
 ---
 
 - Bell Labs.에서 UNIX 운영체제<sub>operating system</sub>을 위해 개발한 언어:

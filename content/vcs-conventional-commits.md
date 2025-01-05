@@ -3,7 +3,7 @@ title: Conventional Commits
 date: 2024-06-11
 tags:
 - VCS
-draft: false
+draft: true
 ---
 
 

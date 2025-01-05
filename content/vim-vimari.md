@@ -4,7 +4,7 @@ date: 2024-06-23
 tags:
 - Vim
 - Safari
-draft: false
+draft: true
 ---
 
 

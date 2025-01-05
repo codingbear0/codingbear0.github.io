@@ -4,7 +4,7 @@ date: 2023-07-27
 tags: 
 - Programming Language
 - Swift
-draft: false
+draft: true
 ---
 
 > [!quote] Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.

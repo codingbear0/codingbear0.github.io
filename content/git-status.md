@@ -3,7 +3,7 @@ title: git-status
 date: 2024-07-14
 tags:
 - Git
-draft: false
+draft: true
 ---
 
 > [!quote]  the stupid content tracker

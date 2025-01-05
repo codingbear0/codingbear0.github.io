@@ -3,7 +3,7 @@ title: git config
 date: 2024-06-28
 tags:
 - Git
-draft: false
+draft: true
 ---
 
 

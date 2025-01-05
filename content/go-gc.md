@@ -4,7 +4,7 @@ date: 2024-06-17
 tags:
 - Go
 - GC
-draft: false
+draft: true
 ---
 
 > [!quote] It’s essential to keep this rule in mind when working with slices: if the element is a pointer or a struct with pointer fields, the elements won’t be reclaimed by the GC.

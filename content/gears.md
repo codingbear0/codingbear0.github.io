@@ -3,7 +3,7 @@ title: Gears
 date: 2024-07-05
 tags:
 - Gear
-draft: false
+draft: true
 ---
 
 현재 사용 중인 장비 그리고 몇 가지 물건들.

@@ -3,7 +3,7 @@ title: less
 date: 2023-12-20
 tags:
 - Shell
-draft: false
+draft: true
 ---
 
 

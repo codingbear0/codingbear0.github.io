@@ -3,7 +3,7 @@ title: JSON
 date: 2024-06-22
 tags:
 - JSON
-draft: false
+draft: true
 ---
 
 > [!quote] JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate.

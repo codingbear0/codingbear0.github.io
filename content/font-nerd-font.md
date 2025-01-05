@@ -4,7 +4,7 @@ date: 2024-06-12
 tags:
 - Font
 - Nerd-Font
-draft: false
+draft: true
 ---
 
 - 개발자들이 많이 쓰는 [[/coding-font|Coding Fonts]]를 모아둔 모음집<sub>collection</sub>:

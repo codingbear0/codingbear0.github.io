@@ -4,7 +4,7 @@ date: 2024-06-27
 tags:
 - Programming Language
 - Lisp
-draft: false
+draft: true
 ---
 
 > [!quote] Clojure is a robust, practical, and fast programming language with a set of useful features that together form a simple, coherent, and powerful tool.

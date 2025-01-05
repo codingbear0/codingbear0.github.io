@@ -4,7 +4,7 @@ title: |
 date: 2024-11-25
 tags:
 - Book
-draft: false
+draft: true
 ---
 
 - [[/book-stories-of-your-life-and-others|Stories of Your Life and Others]]

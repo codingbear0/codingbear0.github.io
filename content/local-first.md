@@ -4,7 +4,7 @@ date: 2024-07-04
 tags:
 - Terms
 - Local First
-draft: false
+draft: true
 ---
 
 > [!quote] Local-first ideals include the ability to work offline and collaborate across multiple devices, while also improving the security, privacy, long-term preservation, and user control of data.

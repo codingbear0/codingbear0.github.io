@@ -2,6 +2,7 @@
 title: Programming Language’s Learning Curve
 tags:
 - Learning Curve
+draft: true
 ---
 
 - 인터넷 밈<sub>meme</sub>으로 알려진 프로그래밍 언어들의 학습 곡선<sub>learning curve</sub>.

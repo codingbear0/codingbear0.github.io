@@ -3,7 +3,7 @@ title: Docker
 date: 2023-07-27
 tags: 
 - Container
-draft: false
+draft: true
 ---
 
 > [!quote] Docker is an open platform for developing, shipping, and running applications. 

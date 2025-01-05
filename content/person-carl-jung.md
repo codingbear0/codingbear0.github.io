@@ -3,7 +3,7 @@ title: Carl Jung
 date: 2024-06-17
 tags:
 - Person
-draft: false
+draft: true
 ---
 
 

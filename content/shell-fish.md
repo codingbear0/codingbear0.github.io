@@ -3,7 +3,7 @@ title: Fish
 date: 2023-07-28
 tags:
 - Shell
-draft: false
+draft: true
 ---
 
 

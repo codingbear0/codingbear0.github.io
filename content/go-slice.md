@@ -4,7 +4,7 @@ date: 2024-06-17
 tags:
 - Go
 - Slice
-draft: false
+draft: true
 ---
 
 - [[golang|Go]] 언어의 `slice`는 일반적인 프로그랭 언어의 배열<sub>array</sub>에 해당하는 자료형[^1]

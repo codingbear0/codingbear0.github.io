@@ -4,7 +4,7 @@ date: 2023-07-27
 tags:
 - VCS 
 - Git
-draft: false
+draft: true
 ---
 
 

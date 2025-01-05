@@ -4,7 +4,7 @@ date: 2024-07-05
 tags:
 - Terms
 - Latin
-draft: false
+draft: true
 ---
 
 - ‘and others’란 뜻[^1]의 라틴어 ‘et alii’를 축약한 것:

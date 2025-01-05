@@ -3,7 +3,7 @@ title: Steve Jobs
 date: 2024-07-05
 tags:
 - Movie
-draft: false
+draft: true
 ---
 
 - Steve Jobs 사후 2015년 개봉한 전기 영화:

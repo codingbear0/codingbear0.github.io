@@ -4,7 +4,7 @@ date: 2024-06-28
 tags:
 - Book
 - HN-News
-draft: false
+draft: true
 ---
 
 - 2023년 한 해 동안 [Hacker News](https://news.ycombinator.com)에서 언급된 책들을 추출해 정리한 목록.

@@ -4,7 +4,7 @@ date: 2024-07-01
 tags:
 - Movie
 - Screenwriter
-draft: false
+draft: true
 ---
 
 - 개인적으로 좋아하는 각본가.

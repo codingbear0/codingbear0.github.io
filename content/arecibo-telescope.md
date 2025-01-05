@@ -3,7 +3,7 @@ title: Arecibo Telescope
 date: 2024-07-13
 tags:
 - Terms
-draft: false
+draft: true
 ---
 
 > [!quote] The Arecibo Telescope was a 305 m (1,000 ft) spherical reflector radio telescope built into a natural sinkhole at the Arecibo Observatory located near Arecibo, Puerto Rico. A cable-mount steerable receiver and several radar transmitters for emitting signals were mounted 150 m (492 ft) above the dish. 

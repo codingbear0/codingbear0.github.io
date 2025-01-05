@@ -3,7 +3,7 @@ title: BSOD
 date: 2024-07-19
 tags:
 - Terms
-draft: false
+draft: true
 ---
 
 - BSOD, Blue Screen of Death:

@@ -3,7 +3,7 @@ title: MIT License
 date: 2024-06-29
 tags:
 - License
-draft: false
+draft: true
 ---
 
 - GitHub에서 가장 많이 사용되는 license.

@@ -3,7 +3,7 @@ title: Larian Studios
 date: 2023-12-24
 tags:
 - Game
-draft: false
+draft: true
 ---
 
 - 2023년 최고 흥행작 [[/game-baldurs-gate-3|Baldur’s Gate 3]] 개발사로 유명한 벨기에 게임 개발사:

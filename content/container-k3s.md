@@ -3,7 +3,7 @@ title: K3s
 date: 2024-06-23
 tags:
 - Kubernetes
-draft: false
+draft: true
 ---
 
 - 경량화된<sub>lightweight</sub> [[continer-kubernetes|Kubernetes]]:

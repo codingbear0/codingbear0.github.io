@@ -3,7 +3,7 @@ title: macOS
 date: 2023-07-28
 tags: 
 - macOS
-draft: false
+draft: true
 ---
 
 

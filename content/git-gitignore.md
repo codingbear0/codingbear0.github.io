@@ -3,7 +3,7 @@ title: .gitignore
 date: 2024-06-23
 tags:
 - Git
-draft: false
+draft: true
 ---
 
 

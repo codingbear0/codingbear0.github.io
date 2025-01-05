@@ -4,7 +4,7 @@ date: 2024-06-24
 tags:
 - AI
 - Machine Learning
-draft: false
+draft: true
 ---
 
 - 일단 [[algorithm|Algorithm]] 종류만 정리.

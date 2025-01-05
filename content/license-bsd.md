@@ -3,7 +3,7 @@ title: BSD License
 date: 2024-07-19
 tags:
 - License
-draft: false
+draft: true
 ---
 
 #TODO

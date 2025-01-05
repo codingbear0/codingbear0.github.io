@@ -5,7 +5,7 @@ tags:
 - VCS
 - Git
 - Emacs
-draft: false
+draft: true
 ---
 
 

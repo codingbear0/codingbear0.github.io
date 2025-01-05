@@ -4,7 +4,7 @@ date: 2024-07-11
 tags:
 - Database
 - PostgreSQL
-draft: false
+draft: true
 ---
 
 - [[/db-postgresql|PostgreSQL]]에서 [[uuid|UUID]]를 primary key로 사용하는 건 어떨까? 어떻게 해야 더 효율적으로 사용할 수 있을까:

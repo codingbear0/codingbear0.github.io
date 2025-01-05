@@ -4,7 +4,7 @@ date: 2024-06-24
 tags:
 - Programming Language
 - Lisp
-draft: false
+draft: true
 ---
 
 > [!quote] Programming languages should be designed not by piling feature on top of feature, but by removing the weaknesses and restrictions that make additional features appear necessary. Scheme demonstrates that a very small number of rules for forming expressions, with no restrictions on how they are composed, suffice to form a practical and efficient programming language that is flexible enough to support most of the major programming paradigms in use today.

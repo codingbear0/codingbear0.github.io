@@ -3,7 +3,7 @@ title: Redis
 date: 2024-07-19
 tags:
 - Database
-draft: false
+draft: true
 ---
 
 - Redis, Remote Dictionary Server:

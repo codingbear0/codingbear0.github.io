@@ -3,7 +3,7 @@ title: Plan 9
 date: 2024-07-11
 tags:
 - Operating System
-draft: false
+draft: true
 ---
 
 - Bell Labs에서 1992년 개발한 분산<sub>distributed</sub> 운영체제:

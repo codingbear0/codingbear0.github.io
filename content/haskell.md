@@ -4,7 +4,7 @@ date: 2024-06-22
 tags:
 - Haskell
 - Functional Programming
-draft: false
+draft: true
 ---
 
 

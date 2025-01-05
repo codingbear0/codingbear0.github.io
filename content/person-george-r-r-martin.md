@@ -3,7 +3,7 @@ title: George R. R. Martin
 date: 2024-07-19
 tags:
 - People
-draft: false
+draft: true
 ---
 
 - [[/book-a-song-of-ice-and-fire|A Song of Ice and Fire]] 시리즈의 저자:

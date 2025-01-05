@@ -4,7 +4,7 @@ datet: 2023-02-02
 tags:
 - Programming Language
 - Go
-draft: false
+draft: true
 ---
 
 > [!quote] Build simple, secure, scalable systems with Go.

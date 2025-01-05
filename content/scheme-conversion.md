@@ -4,7 +4,7 @@ datetime: 2024-06-27
 tags: 
 - Lisp
 - Scheme
-draft: false
+draft: true
 ---
 
 - data type 간 변환<sub>conversion</sub>을 위한 다양한 procedure 제공:

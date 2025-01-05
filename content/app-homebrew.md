@@ -3,7 +3,7 @@ title: Homebrew
 date: 2024-06-20
 tags:
 - Shell
-draft: false
+draft: true
 ---
 
 

@@ -4,7 +4,7 @@ date: 2024-06-26T17:13:19+09:00
 tags:
 - Lisp
 - Scheme
-draft: false
+draft: true
 ---
 
 

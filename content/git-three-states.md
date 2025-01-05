@@ -3,7 +3,7 @@ title: The Three States of Git
 date: 2024-06-28
 tags:
 - Git
-draft: false
+draft: true
 ---
 
 - [[/vcs-git|Git]]은 파일들을 `modified`, `staged`, `committed`[^1] 세 가지 상태로 관리[^2]:

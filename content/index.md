@@ -16,6 +16,7 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 > [!warning] Still in the trial-and-error phase, the overall structure may change unexpectedly.
 
 
+<!--
 ---
 ### Coding
 [Algorithms]: #
@@ -149,3 +150,4 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 - p/ [[/person-john-maynard-keynes|John Maynard Keynes]]
 - [[/font-nerd-font|Nerd Font]] 
 - [[/et-al|et al.]]
+-->

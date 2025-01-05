@@ -3,7 +3,7 @@ title: Jim Crow laws
 created_at: 2024-06-20
 tags:
 - Terms
-draft: false
+draft: true
 ---
 
 

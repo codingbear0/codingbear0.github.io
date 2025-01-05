@@ -5,7 +5,7 @@ tags:
 - Text Editor
 - Emacs
 - TODO
-draft: false
+draft: true
 ---
 
 > [!quote] An extensible, customizable, free/libre text editor — and more.

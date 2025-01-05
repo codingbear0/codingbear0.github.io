@@ -3,7 +3,7 @@ title: Language Server Protocol
 date: 2024-06-22
 tags:
 - LSP
-draft: false
+draft: true
 ---
 
 

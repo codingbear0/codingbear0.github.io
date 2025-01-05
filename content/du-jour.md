@@ -4,7 +4,7 @@ date: 2024-07-15
 tags:
 - Terms
 - French
-draft: false
+draft: true
 ---
 
 - ‘baguette’처럼 영어로 사용되는 프랑스어 표현.

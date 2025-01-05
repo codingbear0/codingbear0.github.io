@@ -3,7 +3,7 @@ title: Why MIT Stopped Teaching SICP
 date: 2024-06-24
 tags:
 - Lisp
-draft: false
+draft: true
 ---
 
 

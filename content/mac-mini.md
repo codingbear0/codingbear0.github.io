@@ -4,7 +4,7 @@ date: 2024-11-22
 tags:
 - Gear
 - Apple
-draft: false
+draft: true
 ---
 
 MacBook Pro 14[^1]에서 Mac mini[^2]로 교체한 이야기.

@@ -4,7 +4,7 @@ date: 2024-07-07
 tags:
 - Database
 - Identifier
-draft: false
+draft: true
 ---
 
 - UUID, Universally Unique Identifier:

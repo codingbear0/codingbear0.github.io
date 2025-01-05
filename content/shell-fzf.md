@@ -3,7 +3,7 @@ title: fzf
 date: 2024-06-20T10:17:27+09:00
 tags:
 - Shell
-draft: false
+draft: true
 ---
 
 - 꽤 파고들거리가 많은 [[shell|Shell]] 필수 유틸:

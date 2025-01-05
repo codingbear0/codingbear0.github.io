@@ -3,7 +3,7 @@ title: Snowy Owl
 date: 2024-06-28
 tags:
 - Terms
-draft: false
+draft: true
 ---
 
 

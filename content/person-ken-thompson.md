@@ -3,7 +3,7 @@ title: Ken Thompson
 date: 2024-07-11
 tags:
 - Person
-draft: false
+draft: true
 ---
 
 

@@ -3,7 +3,7 @@ title: Arrival
 date: 2024-07-07
 tags:
 - Movie
-draft: false
+draft: true
 ---
 
 

@@ -504,7 +504,7 @@ td {
 tr {
   border-bottom: 1px solid var(--lightgray);
   &:last-child {
-    border-bottom: none;
+    border-bottom: 2px solid var(--gray);
   }
 }
 

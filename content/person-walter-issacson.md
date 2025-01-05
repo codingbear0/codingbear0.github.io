@@ -3,7 +3,7 @@ title: Walter Issacson
 date: 2024-07-01
 tags:
 - Book
-draft: false
+draft: true
 ---
 
 

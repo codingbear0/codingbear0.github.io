@@ -4,7 +4,7 @@ title: |
 date: 2024-11-25
 tags:
 - Book
-draft: false
+draft: true
 ---
 
 - [[/books/book-1984|1984]]

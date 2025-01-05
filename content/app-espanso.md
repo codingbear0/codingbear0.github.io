@@ -3,7 +3,7 @@ title: Espanso
 date: 2024-06-18
 tags:
 - App
-draft: false
+draft: true
 ---
 
 - Open Source, Text Expander[^1]

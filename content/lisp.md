@@ -4,7 +4,7 @@ date: 2024-06-23
 tags:
 - Programming Language
 - Lisp
-draft: false
+draft: true
 ---
 
 - Fortran에 이어 두 번째로 오래된 high-level programming language:

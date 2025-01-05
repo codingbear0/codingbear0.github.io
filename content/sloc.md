@@ -3,7 +3,7 @@ title: SLOC
 date: 2024-07-15
 tags:
 - Terms
-draft: false
+draft: true
 ---
 
 - SLOC, Source Lines of Code:

@@ -3,7 +3,7 @@ title: Digital Garden
 date: 2024-07-05
 tags:
 - Digital Garden
-draft: false
+draft: true
 ---
 
 - [[pkm|PKM]], 개인 지식<sub>personal knowledge</sub>을 관리하는 방법 중 하나:

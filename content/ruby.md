@@ -4,7 +4,7 @@ date: 2024-06-23
 tags:
 - Programming Language
 - Ruby
-draft: false
+draft: true
 ---
 
 

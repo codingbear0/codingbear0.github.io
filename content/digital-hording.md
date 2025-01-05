@@ -4,7 +4,7 @@ date: 2024-07-05
 tags:
 - Terms
 - Second Brain
-draft: false
+draft: true
 ---
 
 

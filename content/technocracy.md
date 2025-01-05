@@ -3,7 +3,7 @@ title: Technocracy
 date: 2024-06-24
 tags:
 - Terms
-draft: false
+draft: true
 ---
 
 

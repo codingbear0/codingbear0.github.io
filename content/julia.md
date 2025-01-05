@@ -4,7 +4,7 @@ date: 2024-06-22
 tags:
 - Programming Language
 - Julia
-draft: false
+draft: true
 ---
 
 - 2012년 개발된, 주로 수치 분석과 컴퓨터 과학 분야에서 쓰이는 언어:

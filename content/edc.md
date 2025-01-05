@@ -3,7 +3,7 @@ title: EDC
 date: 2024-06-15
 tags:
 - Terms
-draft: false
+draft: true
 ---
 
 > [!info] 출처: https://en.wikipedia.org/wiki/Everyday_carry

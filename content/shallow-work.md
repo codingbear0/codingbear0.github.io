@@ -3,7 +3,7 @@ title: Shallow Work
 date: 2024-06-17
 tags:
 - Terms
-draft: false
+draft: true
 ---
 
 

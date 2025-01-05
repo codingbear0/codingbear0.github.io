@@ -3,7 +3,7 @@ title: CRDT
 date: 2024-07-19
 tags:
 - Terms
-draft: false
+draft: true
 ---
 
 - CRDT, Conflict-free Replicated Data Types:

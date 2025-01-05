@@ -4,7 +4,7 @@ date: 2024-07-05
 tags:
 - Markup Language
 - TeX
-draft: false
+draft: true
 ---
 
 > [!quote] LaTeX uses the TeX typesetting program for formatting its output, and is itself written in the TeX macro language.

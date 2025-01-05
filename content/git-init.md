@@ -3,7 +3,7 @@ title: git-init
 date: 2024-07-14
 tags:
 - Git
-draft: false
+draft: true
 ---
 
 > [!quote]  Create an empty Git repository or reinitialize an existing one

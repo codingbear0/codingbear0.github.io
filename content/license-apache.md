@@ -3,7 +3,7 @@ title: Apache License
 date: 2024-06-29
 tags:
 - License
-draft: false
+draft: true
 ---
 
 #TODO

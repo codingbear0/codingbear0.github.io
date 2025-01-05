@@ -3,7 +3,7 @@ title: Shell
 date: 2023-12-19
 tags:
 - Shell
-draft: false
+draft: true
 ---
 
 

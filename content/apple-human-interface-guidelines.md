@@ -3,7 +3,7 @@ title: Human Interface Guidelines
 date: 2024-07-15
 tags:
 - UX/UI
-draft: false
+draft: true
 ---
 
 ### References

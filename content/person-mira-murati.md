@@ -4,7 +4,7 @@ date: 2024-07-04
 tags:
 - AI
 - OpenAI
-draft: false
+draft: true
 ---
 
 

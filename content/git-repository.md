@@ -3,7 +3,7 @@ title: Git Repository
 date: 2024-07-15
 tags:
 - Git
-draft: false
+draft: true
 ---
 
 - [[/vcs-git|Git]]은 repository에 두 개의 data structure를 관리:
