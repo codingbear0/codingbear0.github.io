@@ -45,4 +45,4 @@ draft: true
 
 
 ### References
-- https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
+- https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/images/

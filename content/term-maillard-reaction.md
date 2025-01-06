@@ -2,7 +2,7 @@
 title: Maillard reaction
 date: 2024-11-25
 tags:
-- term
+- terms
 - cooking
 draft: false
 ---

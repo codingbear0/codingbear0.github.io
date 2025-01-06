@@ -15,7 +15,7 @@ draft: true
 
 - Plan 9 실행 화면:
 
-    ![[/media/01J34V9127AD7FC67509XK4EDX.gif|512x384]]
+    ![[/images/01J34V9127AD7FC67509XK4EDX.gif|512x384]]
     *from [Plan 9 from Bell Labs](https://plan9.io/plan9/)*
 
 > [!note] 아기자기하네. 😆

@@ -30,7 +30,7 @@ draft: true
 
 [^2]: 이용 허락 조건
 
-    ![[/media/01J34TTTY5Q1PCY75EJFJ0J3FY.png|800x487]]
+    ![[/images/01J34TTTY5Q1PCY75EJFJ0J3FY.png|800x487]]
     *from https://ccl.cckorea.org/about/*
 
 - 네 가지 권리를 조합해, 총 6 종류의 CC license 사용:

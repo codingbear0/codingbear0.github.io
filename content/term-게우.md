@@ -2,7 +2,7 @@
 title: 게우
 date: 2025-01-05
 tags:
-- term
+- terms
 - cooking
 draft: false
 ---

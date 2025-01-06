@@ -11,7 +11,7 @@ draft: true
 - MOS 6502에서 동작하는 assembly language:
     - MOS 6502는 1975년 출시된 MOS Technology의 8-bit MPU[^1].
     - Motorola 6809계열 CPU로 분류.
-        ![[/media/01J34TXRAX7MCQBTEEYSVPHHT4.jpg|450x163]]
+        ![[/images/01J34TXRAX7MCQBTEEYSVPHHT4.jpg|450x163]]
         *from [Wikipedia](https://en.wikipedia.org/wiki/MOS_Technology_6502)*
         
            

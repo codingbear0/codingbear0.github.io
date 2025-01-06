@@ -31,7 +31,7 @@ draft: true
     - 가장 인기 있었던 모델로 무려 64KB RAM.
     - 대문자와 소문자를 모두 표시 가능.
 
-        ![[/media/01J34TWP287E867BQBYF429BSN.jpg|450x600]]
+        ![[/images/01J34TWP287E867BQBYF429BSN.jpg|450x600]]
         *Apple IIefrom [Wikipedia](https://en.wikipedia.org/wiki/Apple_IIe)*
 
 
@@ -43,4 +43,4 @@ draft: true
 
 
 ### References
-- https://en.wikipedia.org/wiki/Apple_II
+- https://en.wikipedia.org/wiki/Apple_IIimages/

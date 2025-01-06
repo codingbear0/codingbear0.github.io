@@ -8,7 +8,7 @@ draft: true
 ---
 
 - 독일의 사무용품 제조사 Durable의 페이퍼 클립<sub>paper clip</sub>:
-    ![[/media/01J34V56VTF4D3ZGTWHCSYB098.jpg|350x240]]
+    ![[/images/01J34V56VTF4D3ZGTWHCSYB098.jpg|350x240]]
     
     - 보통 클립이라고 부르는 제품.
     - 정확한 제품명은 ‘Paper clips 32 mm zinc plated pack of 100’
@@ -18,4 +18,4 @@ draft: true
 
 
 ### References
-- https://www.durable.eu/en_DE/paper-clips-32-mm-zinc-plated-pack-of-100/121025
+- https://www.durable.eu/en_DE/paper-clips-32-mm-zinc-plated-pack-of-100/121025images/

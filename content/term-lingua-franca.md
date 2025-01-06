@@ -2,7 +2,7 @@
 title: Lingua franca
 date: 2024-07-15
 tags:
-- term
+- terms
 - latin
 ---
 

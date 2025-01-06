@@ -20,7 +20,7 @@ draft: true
     - `CODE`의 ASCII값을 이진수로 표기한 것.
     - e.g. 알파벳 대문자 `C`의 ASCII 값은 `67`로 이진수로 표기하면 `‌01000011`
     
-        ![[/media/01J34TYM22AK6E53D6MESVAQNN.png|480x109]]
+        ![[/images/01J34TYM22AK6E53D6MESVAQNN.png|480x109]]
 
 
 [^1]: 쑥쑥 올라가는 가격은 덤.

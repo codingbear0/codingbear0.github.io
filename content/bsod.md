@@ -2,7 +2,7 @@
 title: BSOD
 date: 2024-07-19
 tags:
-- Terms
+- terms
 draft: true
 ---
 
@@ -13,7 +13,7 @@ draft: true
 > [!note] 공식적으로는 stop error 인 듯?
 
 
-![[/media/01J3547R7NT2KF422SY9Q38S2K.jpg|640x360]]
+![[/images/01J3547R7NT2KF422SY9Q38S2K.jpg|640x360]]
 
 > [!quote[ The first Blue Screen of Death appeared in Windows NT 3.1[5] (the first version of the Windows NT family, released in 1993), and later appeared on all Windows operating systems released afterwards. 
 - 처음으로 BSOD가 등장한 건 1993년 출시된 Windows NT 부터.
@@ -25,4 +25,4 @@ draft: true
 
 
 ### References
-- https://en.wikipedia.org/wiki/Blue_screen_of_death
+- https://en.wikipedia.org/wiki/Blue_screen_of_deathimages/

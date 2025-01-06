@@ -11,7 +11,7 @@ draft: true
     - 각본은 [[/person-aaron-sorkin|Aaron Sorkin]].
 
 - 아래 이미지는 Zootopia의 패러디, Steve Paws:
-    ![[/media/01J34V8GBR16BNH83FXH435Q01.jpg|540x800]]
+    ![[/images/01J34V8GBR16BNH83FXH435Q01.jpg|540x800]]
     *from [zootopia fandom](https://zootopia.fandom.com/wiki/List_of_Zootopian_Films/Gallery)*
 
 

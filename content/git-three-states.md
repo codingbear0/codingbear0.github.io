@@ -8,7 +8,7 @@ draft: true
 
 - [[/vcs-git|Git]]은 파일들을 `modified`, `staged`, `committed`[^1] 세 가지 상태로 관리[^2]:
 
-    ![[/media/01J34VFQ4EADHRKMD5SV6XEXMZ.png|582x260]]
+    ![[/images/01J34VFQ4EADHRKMD5SV6XEXMZ.png|582x260]]
 
 [^1]: 또는 `unmodified` 상태
 [^2]: 정확하게 말하면 [[/vcs-git|Git]]에 의해 관리되지 않는 상태 `untracked`와 관리되는 상태 `modified`, `staged`, `comitted`[ 총 네 가지 상태

@@ -35,7 +35,7 @@ draft: true
     - 전통적인 blog의 시간 순서 배열이 아닌, 문맥 관계<sub>contextual relationship</sub>와 연관 링크<sub>associative link</sub>로 구성.
     - bi-directional link.
 
-        ![[/media/01J34V4NRCB7QT2WZS7DCRM6JJ.webp|550x488]]
+        ![[/images/01J34V4NRCB7QT2WZS7DCRM6JJ.webp|550x488]]
         *출처: https://maggieappleton.com/garden-history*
 
 > [!note] link를 강조한다는 면에선 [[/zettelkasten|Zettelkasten]]과도 유사성이 있어 보인다.
@@ -49,7 +49,7 @@ draft: true
 3. Imperfection & Learning in Public
     - 정보로서의 가치가 낮은[^1] twitter와 오랜 시간동안 다듬어져 고도로 정제된 출판 서적, 중간쯤 어딘가
   
-       ![[/media/01J34V3YP58TR067KKBHGE0Q7Y.webp|640x404]]
+       ![[/images/01J34V3YP58TR067KKBHGE0Q7Y.webp|640x404]]
         *출처: https://maggieappleton.com/garden-history*
 
 
@@ -66,4 +66,4 @@ draft: true
 
 ### References
 - https://maggieappleton.com/garden-history
-- https://github.com/MaggieAppleton/digital-gardeners
+- https://github.com/MaggieAppleton/digital-gardenersimages/
