@@ -15,7 +15,7 @@ draft: false
 
 
 ---
-### from [[/library/book-the-discovery-of-fried-food|튀김의 발견]]
+## from [[/library/book-the-discovery-of-fried-food|튀김의 발견]]
 영국 대표(?) 요리인 피쉬앤칩스<sub>fish and chips</sub>를 설명하며 언급된다.
 - 사람들은 갈색으로 변한[^2] 튀김을 더 먹음직스럽게 여기는데, 이 갈색은 캐러멜화<sub>caramelization</sub>와 마이야르 반응<sub>maillard reaction</sub>에 의한 것.
 - 마이야르 반응의 결과로 여러 맛 성분과 향 성분이 생겨나고, 멜라노이드<sub>melanoid</sub>라고 부르는 갈색의 색소 성분이 만들어짐.

@@ -13,5 +13,5 @@ draft: false
 - ’게우 소스’는 게우 즉, 전복의 내장을 이용해 만든 소스를 의미.
 
 
-### References
+## References
 - [우리말 샘](https://opendict.korean.go.kr/dictionary/view?sense_no=715329&viewType=confirm)

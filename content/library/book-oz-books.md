@@ -36,7 +36,8 @@ draft: false
 [^1]: 1900년대가 아니라 1900년.
 
 
-### from [[/library/book-silence-of-the-lambs|양들의 침묵]]
+---
+## from [[/library/book-silence-of-the-lambs|양들의 침묵]]
 
 > [!quote] “좋아, 토토, 우리는 이제 더 이상 캔자스에 있지 않은 것 같아.”
 

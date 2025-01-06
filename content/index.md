@@ -5,15 +5,11 @@ tags:
 defat: false
 ---
 
-This is my [[/digital-garden|digital garden]] made using [[/quartz-4|Quartz 4]].
-
-The [[/zettelkasten|Zettelkasten]] method is used for note-taking in this system. The structure is flat, without subfolders or categories. Notes with multiple connections may appear in several places. These duplicated notes are marked with an `**`. 
+This is a digital garden that uses the [[/zettelkasten|Zettelkasten]] note-taking method for personal documentation. Here, I explore a variety of topics I'm interested in, including computer science, books, games, and cooking."
 
 Maybe you'd like to know what I'm doing? See the [[now|Now]].
 
-<BR /> 
-
-> [!warning] Still in the trial-and-error phase, the overall structure may change unexpectedly.
+> [!warning] The note structure may unexpectedly change, or there might be notes that are not yet written but are linked.
 
 
 <!--

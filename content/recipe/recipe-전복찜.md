@@ -7,7 +7,7 @@ tags:
 draft: false
 ---
 
-### Steps
+## Steps
 1. 전복[^1]은 칫솔을 이용해 깨끗이 씻는다
 2. 무를 편 썰고 다시 반달 모양으로 썰어 준비한다.
 3. 물은 냄비 반, 찜기에 전복을 올리고 전복 위에 2)에서 썰어둔 반달 모양의 무를 전복 하나당 하나씩 올려준다.
@@ -20,7 +20,7 @@ draft: false
 [^1]: 영상에서는 1kg 10미, 활전복 사용
 
 
-### References
+## References
 - https://www.youtube.com/shorts/XmLO0CB_XqY
 
 
