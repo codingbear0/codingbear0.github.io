@@ -19,6 +19,7 @@ draft: false
 
 [^1]: 영상에서는 1kg 10미, 활전복 사용
 
+> [!note] 믹서기가 필요하고, 전복의 내장으로 소스를 만든다는 점이 조금 걸리는데 맛이 어떨지?
 
 ## References
 - https://www.youtube.com/shorts/XmLO0CB_XqY
