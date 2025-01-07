@@ -2,7 +2,7 @@
 title: Zettelkasten
 date: 2024-07-05
 tags:
-- Terms
+- terms
 draft: false
 ---
 
@@ -19,7 +19,6 @@ draft: false
 > [!note] Sönke Ahrens의 책[^2]이 Luhmann이 남긴 메모와 글을 분석해 정리한 저자 개인의 생각이라는 이야기가 있다. 그 책은 읽어도 개념 잡기가 쉽지 않았는데, 그래서였을까?
 
 [^2]: 제텔카스텐, 인간희극 2023
-
 
 
 ## References

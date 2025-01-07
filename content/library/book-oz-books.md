@@ -37,7 +37,7 @@ draft: false
 
 
 ---
-## from [[/library/book-silence-of-the-lambs|양들의 침묵]]
+## from [[/library/book-silence-of-the-lambs|Silence of the Lambs]]
 
 > [!quote] “좋아, 토토, 우리는 이제 더 이상 캔자스에 있지 않은 것 같아.”
 

@@ -33,7 +33,7 @@ ECOC는 The Emotional Cycle of Change의 약자로 ‘변화에 따른 감정 �
 
 > [!note] 원래의 ECOC와 비교하면 4번 ‘hopeful realism’이 빠지고 새로 ’success & fulfillment’가 추가된 것.
 
-> [!bug] The 12 week Year 때문인지 마지막 단계가 ‘success & fulfillment’인 자료가 많이 검색되는 듯.
+> [!bug] [[/library/book-the-12-week-year|The 12 week Year]] 때문인지 마지막 단계가 ‘success & fulfillment’인 자료가 많이 검색되는 듯.
 
 
 ## References

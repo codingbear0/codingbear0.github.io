@@ -15,8 +15,8 @@ draft: false
 | 출판사 | 나무의 철학, 2023 |
 
 1991년 개봉한 동명의 영화로 더 유명한 소설[^1]이다. 
-- 식인살인마인 한니발 렉터<sub>Hannibal Lecter</sub>와 FBI 연수생인 클라리스 스탈링<sub>Clarice Starling</sub> 그리고 또 다른 연쇄살인범인 버팔로 빌<sub>Buffalo Bill</sub>을 다룬 이야기.
-- 영화에서 한니발 렉터를 연기한 앤서니 홉킨스<sub>Anthony Hopkins</sub>가 너무 인상 깊어 소설의 한니발은 의외로 심심한 느낌.
+- 식인살인마인 Hannibal Lecter와 FBI 연수생인 Clarice Starling 그리고 또 다른 연쇄살인범인 Buffalo Bill을 다룬 이야기.
+- 영화에서 Hannibal을 연기한 Anthony Hopkins가 너무 인상 깊어 소설의 한니발은 의외로 심심한 느낌.
 
 [^1]: 원작 소설은 1988년 출간.
 

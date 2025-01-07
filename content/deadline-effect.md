@@ -2,7 +2,7 @@
 title: Deadline Effect
 date: 2025-01-07
 tags:
-- Terms
+- terms
 draft: false
 ---
 
