@@ -1,5 +1,5 @@
 ---
-title: Oz books
+title: Oz Books
 date: 2025-01-06
 tags:
 - book

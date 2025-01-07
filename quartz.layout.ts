@@ -58,8 +58,8 @@ Component.Explorer({
             return 1
         }
     },
+    filterFn: undefined,
     mapFn: undefined,
-    softFn: undefined,
     order: ["filter", "map", "sort"],
 })
 
