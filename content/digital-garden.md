@@ -13,7 +13,8 @@ draft: true
 
 <BR />
 
-> [!quote] It's a different way of thinking about our online behaviour around information - one that accumulates personal knowledge over time in an explorable space. $\cdots$ Gardens present information in a richly linked landscape that grows slowly over time. Everything is arranged and connected in ways that allow you to explore.
+> [!quote]
+> It's a different way of thinking about our online behaviour around information - one that accumulates personal knowledge over time in an explorable space. $\cdots$ Gardens present information in a richly linked landscape that grows slowly over time. Everything is arranged and connected in ways that allow you to explore.
  
 - 정원을 가꾸듯 시간의 흐름에 따라 천천히 풍성해지는 지식의 축적을 의미.
 - 쓰고, 다시 쓰고, 고치고 생각을 바꾸는 일련의 과정을 통해 천천히 성장하는 아이디어를 강조.
@@ -24,9 +25,11 @@ draft: true
     - 지식을 공유하고 사람들과의 상호작용, 즉 의견 교환이나 피드백 등을 통해 점진적으로 아이디어를 개선해 나가는 것의 느낌.
     - [[/second-bradin/Second Brain]]은 공유보다 체계적인 개인 지식 체계를 만드는 것에 가깝고.
  
-> [!note] digital garden에서 유독 ‘in public’이라는 표현이 자주 나옴.
+> [!note]
+> digital garden에서 유독 ‘in public’이라는 표현이 자주 나옴.
 
-> [!todo] [[/book-building-a-second-brain|Building a Second Bradin]]을 다시 읽어보면 차이점이 조금 더 명확해질까?
+> [!todo]
+> [[/book-building-a-second-brain|Building a Second Bradin]]을 다시 읽어보면 차이점이 조금 더 명확해질까?
 
 
 ---
