@@ -5,17 +5,14 @@ tags:
 defat: false
 ---
 
-This is a digital garden that uses the [[/zettelkasten|Zettelkasten]] note-taking method for personal documentation. 
+This is a digital garden that uses the [[/zettelkasten|Zettelkasten]] note-taking method for personal documentation. Here, I explore a variety of topics I'm interested in, including computer science, books, games, and cooking.
 
 Maybe you'd like to know what I'm doing? See the [[now|Now]].
 
 > [!warning] The note structure may unexpectedly change, or there might be notes that are not yet written but are linked.
 
 
-Here, I explore a variety of topics I'm interested in, including computer science, books, games, and cooking.
-
-
-### Recently Created
+## Recently Created
 <!--
 - [[/reading/book-uptime|Uptime]]
 - [[/reading/book-ultralearning|Ultralearning]]
