@@ -26,13 +26,7 @@ Test-Driven Development, TDD를 이용한 개발을 3단계 과정으로 설명�
 
 
 ## from [[/coding/book-learning-test-driven-development|Learning Test-Driven Development]]
-> [!quote]
-> 1. Red: We write a failing test (including possible compilation failures). We run the test suite to verify the failing tests.
-> 2. Green: We write just enough production code to make the test green. We run the test suite to verify this.
-> 3. *Refactor: We remove any code smells. These may be due to duplication, hardcoded values, or improper use of language idioms. If we break any tests during refactoring, we prioritize getting them back to green before exiting this phase.
-
-Kent Beck의 책과 동일하게 Red-Green-Refactor를 언급하고 있다.
-- 표현은 조금 다르지만 내용은 동일.
-- TDD Mantra 대신 RGR[^1] Cycle이라 부름.
+Kent Beck의 책과 표현은 조금 다르지만 내용은 동일하게 Red-Green-Refactor를 소개하고 있다.
+- 다만 TDD Mantra가 아니라 RGR[^1] Cycle이라 부름.
 
 [^1]: RGR, Red-Green-Refactor
