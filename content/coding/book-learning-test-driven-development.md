@@ -1,6 +1,6 @@
 ---
 title: Learning Test-Driven Development
-date: 2024-07-17
+date: 2024-01-09
 tags:
 - Book
 - TDD

@@ -1,9 +1,9 @@
 ---
 title: Slow Productivity
-date: 2025-01-07
+date: 2025-01-15
 tags:
 - Book
-- Cal Newport
+- Productivity
 draft: true
 ---
 
@@ -15,8 +15,13 @@ draft: true
 | 출판사 | 웅진지식하우스, 2024 |
 
 [[/reading/book-deep-work|Deep Work]]로 유명한 Cal Newport의 신작이다.
-- 한글 번역본의 제목은 slow work, 천천히 일하라는 의미 같지만 원제는 slow productivity로 뉘앙스가 조금 다름.
+- 한글 번역본 제목은 slow work, 천천히 일하라는 의미 같지만 원제는 slow productivity로 뉘앙스가 조금 다름.
 
+
+<BR />
+
+[[/book-rating-criteria|점수]]는 3점.
+- [[/reading/book-deep-work|Deep Work]] 보다 못한 느낌?
 
 
 ---

@@ -2,8 +2,8 @@
 title: Deep Work
 date: 2023-07-17
 tags:
-- Book
-- Productivity
+- book
+- productivity
 draft: true
 ---
 
