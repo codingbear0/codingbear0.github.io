@@ -21,7 +21,7 @@ Maybe you'd like to know what I'm doing? See the [[now|Now]].
 - [[/coding/book-learning-test-driven-development|Learning Test-Driven Development]]
 - [[/coding/red-green-refactor|Red-Green-Refactor]]
 - [[/coding/tdd|TDD]]
-- [[/reading/books-the-12-week-year|The 12 Week Year]]
+- [[/reading/book-the-12-week-year|The 12 Week Year]]
 - [[/implementation-intention|Implementation Intention]]
 
 
