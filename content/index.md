@@ -5,24 +5,37 @@ tags:
 defat: false
 ---
 
-This is a digital garden that uses the [[/zettelkasten|Zettelkasten]] note-taking method for personal documentation. Here, I explore a variety of topics I'm interested in, including computer science, books, games, and cooking.
 
-Maybe you'd like to know what I'm doing? See the [[now|Now]].
+Hi there 👋! Welcome to my digital garden, inspired by the Zettelkasten method. Here, I explore topics I’m passionate about, like Computer Science, books, games, and simple cooking.
+
+On this site, you can check out all notes at [[/notes|Notes]], 
+- What I’m learning at [[/coding|Coding]]
+- My thoughts on books at [[/reading|Reading]]
+- Easy recipes at [[/cooking|Cooking]]
+
+Want to know what I’m up to? Check out [[/now|Now]].
 
 > [!warning] The note structure may unexpectedly change, or there might be notes that are not yet written but are linked.
 
-
 ## Recently Created
+- [[/dev/book-learning-test-driven-development|Learning Test-Driven Development]]
+- [[/dev/red-green-refactor|Red-Green-Refactor]]
+- [[/dev/tdd|TDD]]
+- [[/books/the-12-week-year|The 12 Week Year]]
+- [[/notes/implementation-intention|Implementation Intention]]
+
+
 <!--
-- [[/reading/book-uptime|Uptime]]
-- [[/reading/book-ultralearning|Ultralearning]]
-- [[/reading/book-slow-productivity|Slow Productivity]]
+안녕 👋! 이곳은 제텔카스텐 방법을 사용해 기록한 디지털 가든입니다. Computer Science, 책, 게임, 간단한 요리 등등 관심있는 다양한 주제를 다루고 있습니다. 
+
+이 사이트에서 내가 작성한 글들은 [[여기]]에서, 
+- 공부하는 것들은 [[/coding|Coding]]
+- 책들에 대한 여러 이야기는 [[/reading|Reading]]
+- 간단한 요리 레시피는 [[/cooking|Cooking]]
+에서 각각 확인할 수 있습니다.
+
+혹시 지금 무얼 하고 있는지 궁금하다면 [[now]]를 보세요.
 -->
-- [[/coding/book-learning-test-driven-development|Learning Test-Driven Development]]
-- [[/coding/red-green-refactor|Red-Green-Refactor]]
-- [[/coding/tdd|TDD]]
-- [[/reading/book-the-12-week-year|The 12 Week Year]]
-- [[/implementation-intention|Implementation Intention]]
 
 
 <!--
