@@ -22,3 +22,6 @@ draft: true
 
 ---
 ## 밑줄 긋기
+
+> [!quote] 
+> If dependency is the problem, duplication is the symptom.
