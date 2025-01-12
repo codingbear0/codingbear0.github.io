@@ -19,9 +19,9 @@ draft: false
 또 새해. 아직 2025년이라고 쓰는 게 어색한데 벌써 첫 주의 주말, 일요일이 다 지나고 있다. 여전히 속도는 느리고 욕심은 가득가득. 그래서 모든 글들의 상태를 `draft`로 바꿔 노출되지 않도록 했다. 욕심부리지 말고 차근차근 다시 정리해서 채워봐야지. 아참, 그리고 [Duolingo](https://ko.duolingo.com)로 스페인어를 시작했다.
 
 #### 추가/
-[[/books/the-12-week-year|The 12 Week Year]]를 다 읽었고 한 번 따라 해보기로 했다. 몇 가지는 내 상황에 맞춰 조금 바꿔야 할 것 같은데 일주일 정도 우당탕탕하면 익숙해지겠지.
+[[/notes/book-the-12-week-year|The 12 Week Year]]를 다 읽었고 한 번 따라 해보기로 했다. 몇 가지는 내 상황에 맞춰 조금 바꿔야 할 것 같은데 일주일 정도 우당탕탕하면 익숙해지겠지.
 
-맘이 잡히지 않을 때 사둔 생산성 관련 책들을 내친김에 다 읽어버리기로 마음먹었다. Uptime, Ultralearning, 그리고 Slow Productivity까지 읽으면 당분간 이런 부류의 책은 그만 읽어도 되지 않을까? 
+맘이 잡히지 않을 때 사둔 생산성 관련 책들을 내친김에 다 읽어버리기로 마음먹었다. Uptime, [[/notes/book-ultralearning|Ultralearning]], 그리고 Slow Productivity까지 읽으면 당분간 이런 부류의 책은 그만 읽어도 되지 않을까? 
 
 
 ---

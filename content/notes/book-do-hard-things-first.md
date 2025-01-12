@@ -21,7 +21,6 @@ draft: true
 [[/notes/book-rating|점수]]는 2/5.
 
 
-
 ---
 ### 밑줄 긋기
 > [!quote] 
@@ -32,6 +31,8 @@ draft: true
 
 > [!quote]
 > 당신은 해냈다는 느낌을 받기 위해 쉬운 일을 먼저 선택하는 경향이 있다.
+
+
 
 
 

@@ -13,9 +13,10 @@ draft: true
 
 [^1]: 튀기거나 굽는 등의 고온에서 발생.
 
+<BR />
 
 ---
-## from [[/books/the-discovery-of-fried-food|튀김의 발견]]
+## from [[/notes/book-the-discovery-of-fried-food|튀김의 발견]]
 영국 대표(?) 요리인 `fish and chips`를 설명하며 언급된다.
 
 - 사람들은 갈색으로 변한[^2] 튀김을 더 먹음직스럽게 여기는데, 이 갈색은 캐러멜화<sub>caramelization</sub>와 마이야르 반응<sub>maillard reaction</sub>에 의한 것.

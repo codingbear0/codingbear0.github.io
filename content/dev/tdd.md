@@ -22,6 +22,7 @@ Test-Driven Development의 약자이다. 우리말로는 테스트 주도 개발
 [^1]: [[/coding/red-green-refactor|Red-Green-Refactor]]라고 부름.
 [^2]: Smalltalk을 위한 TDD framework.
 
+<BR />
 
 ---
 ## from [[/coding/book-test-driven-development-by-example|Test-Driven Development by Example]]

@@ -30,8 +30,10 @@ draft: true
 > [!quote] 
 -->
 
+<BR />
+
 ---
-## from [[/books/the-12-week-year|The 12 Week Year]]
+## from [[/notes/book-the-12-week-year|The 12 Week Year]]
 계획의 실행 가능성을 높이기 위해서는 계획・목표에 대한 생각을 바꿔야 한다는 점을 이야기 하며 이 책을 인용하고 있다.
 
 > [!quote] 

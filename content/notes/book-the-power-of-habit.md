@@ -30,8 +30,8 @@ draft: true
 > [!quote] 
 
 > [!quote] 
--->
 
+<BR />
 
 ---
 ## from [[/notes/book-the-12-week-year|The 12 Week Year]]

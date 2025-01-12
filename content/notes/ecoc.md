@@ -19,9 +19,10 @@ ECOC는 The Emotional Cycle of Change의 약자로 ‘변화에 따른 감정 �
 
 - 변화의 종류가 무엇이든 모두 이 다섯 단계의 감정 사이클을 겪게 됨.
 
+<BR />
 
 ---
-## from [[/books/the-12-week-year|The 12 Week Year]]
+## from [[/notes/book-the-12-week-year|The 12 Week Year]]
 12주 프로그램을 적용하는데는 변화가 요구되는데, 변화는 누구나 불편하게 느끼는 감정으로 이 감정을 잘 이해하면 부정적 감정에 흔들리지 않을 수 있다고 설명한다.
 - 이 책에서 언급하는 ECOC는 저자가 약간의 변형을 가한 것으로 다음의 다섯 가지 단계로 설명:
 	1. uninformed optimism
@@ -35,7 +36,7 @@ ECOC는 The Emotional Cycle of Change의 약자로 ‘변화에 따른 감정 �
 > 원래의 ECOC와 비교하면 4번 ‘hopeful realism’이 빠지고 새로 ’success & fulfillment’가 추가된 것.
 
 > [!fail]
-> [[/books/the-12-week-year|The 12 week Year]] 때문인지 마지막 단계가 ‘success & fulfillment’인 자료가 많이 검색되는 듯.
+> [[/notes/book-the-12-week-year|The 12 week Year]] 때문인지 마지막 단계가 ‘success & fulfillment’인 자료가 많이 검색되는 듯.
 
 
 ## References

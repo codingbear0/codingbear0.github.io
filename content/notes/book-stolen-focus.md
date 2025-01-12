@@ -15,11 +15,9 @@ draft: true
 | 출판사 | 어크로스, 2023 |
 
 
-
 <BR />
 
 [[/notes/book-rating|점수]]는 3/5점.
-
 
 
 ---

@@ -13,6 +13,7 @@ Test-Driven Development, TDD를 이용한 개발을 3단계 과정으로 설명�
 - Kent Beck의 [[/dev/book-test-driven-development-by-example|Test-Driven Development By Example]]에서 TDD mantra란 이름으로 소개.
 - red, green는 각각 테스트의 실패<sub>fail</sub>와 성공<sub>pass</sub>을 의미.
 
+<BR />
 
 ---
 ## from [[/dev/book-test-driven-development-by-example|Test-Driven Development By Example]]

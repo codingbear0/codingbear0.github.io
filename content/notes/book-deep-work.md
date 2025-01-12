@@ -21,7 +21,6 @@ draft: true
 [[/notes/book-rating|점수]]는 4/5.
 
 
-
 ---
 ### 밑줄 긋기
 > [!quote]

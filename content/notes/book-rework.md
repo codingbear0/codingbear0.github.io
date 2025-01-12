@@ -12,7 +12,7 @@ draft: true
 | 지은이 | Jason Fried, David Heinemeier Hansson |
 | 출판사 | 21세기북스, 2016 |
 
-[[/books/remote|Remote]]와 더불어 Basecamp 설립자가 쓴 책이다.
+[[/notes/book-remote|Remote]]와 더불어 Basecamp 설립자가 쓴 책이다.
 - 회사을 운영하면서 겪은 경험담을 담은 책.
 - ’-해라’의 문장이 많고 나는 잘 됐다, 잘 해냈다 류의 주장이 주된 내용이라 적당히 걸러 들어야?
 
@@ -23,19 +23,6 @@ draft: true
 
 ---
 ### 밑줄 긋기
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--

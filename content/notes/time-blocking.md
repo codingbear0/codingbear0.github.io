@@ -13,8 +13,10 @@ draft: true
 - timeblocking, time blocking 또는 time chunking 이라고도 부름.
 - 기원은 명확하지 않지만 Benjamin Franklin이 자신의 자서전에 소개한 것으로 유명.
 
+<BR />
+
 ---
-## from [[/books/the-12-week-year|The 12 Week Year]]
+## from [[/notes/book-the-12-week-year|The 12 Week Year]]
 시간을 계획적으로 사용하기 위해서 세 가지 time block으로 구성된 ‘퍼포먼스 시간’을 활용해야 한다고 이야기 한다.
 - 전략 블록<sub>strategic blocks</sub>: 매주 3시간 정도 할당되는 모든 것을 차단하고 집중하는 시간.
 - 버퍼 블록<sub>buffer blocks</sub>: 계획되지 않았거나 중요하지 않은 일상적인 일을 처리하는 시간.

@@ -17,12 +17,14 @@ Want to know what I’m up to? Check out [[/now|Now]].
 
 > [!warning] The note structure may unexpectedly change, or there might be notes that are not yet written but are linked.
 
+<BR />
+
 ## Recently Created
+- [[/notes/book-ultralearning|Ultralearning]]
+- [[/notes/monolingual-fieldwork|Monolingual Fieldwork]]
+- [[/recipes/kimchi-fish-cake-noodle-soup|김치어묵국수]]
 - [[/dev/book-learning-test-driven-development|Learning Test-Driven Development]]
 - [[/dev/red-green-refactor|Red-Green-Refactor]]
-- [[/dev/tdd|TDD]]
-- [[/books/the-12-week-year|The 12 Week Year]]
-- [[/notes/implementation-intention|Implementation Intention]]
 
 
 <!--

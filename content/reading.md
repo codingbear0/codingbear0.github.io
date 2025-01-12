@@ -9,39 +9,38 @@ draft: false
 
 지금 읽고 있는 책들은,
 - Uptime
-- Ultralearning
+- [[/notes/book-ultralearning|Ultralearning]]
 - Slow Productivity
-- [[/books/the-witcher-book|The Witcher Book]]
+- [[/notes/book-the-witcher-book|The Witcher Book]]
 
 ---
 ## Past
 ### 2025
 <!--
-- [[/books/uptime|Uptime]]
-- [[/books/ultralearning|Ultralearning]]
-- [[/books/slow-productivity|Slow Productivity]]**
-- [[/books/do-hard-things-first|Do Hard Things First]]
-- [[/books/the-power-of-habit|The Power of Habit]]
-- [[/books/the-witcher-book|The Witcher Book]]
-- [[/books/switch|Switch]]
-- [[/books/oz-books|Oz Books]]
+- [[/notes/book-uptime|Uptime]]
+- [[/notes/book-ultralearning|Ultralearning]]
+- [[/notes/book-slow-productivity|Slow Productivity]]**
+- [[/notes/book-do-hard-things-first|Do Hard Things First]]
+- [[/notes/book-the-power-of-habit|The Power of Habit]]
+- [[/notes/book-the-witcher-book|The Witcher Book]]
+- [[/notes/book-switch|Switch]]
+- [[/notes/book-oz-books|Oz Books]]
 -->
 
-- [[/books/the-12-week-year|The 12 Week Year]]
-- [[/books/silence-of-the-lambs|Silence of the Lambs]]
+- [[/notes/book-the-12-week-year|The 12 Week Year]]
+- [[/notes/book-silence-of-the-lambs|Silence of the Lambs]]
 
 ### 2024
 <!--
 
 
-- [[/books/the-discovery-of-fried-food|튀김의 발견]]
+- [[/notes/book-the-discovery-of-fried-food|튀김의 발견]]
 
 -->
-- [[/books/1984|1984]]
+- [[/notes/book-1984|1984]]
 
 <!--
 ### 2023
-- [[/books/stolen-focus|Stolen Focus]]
-- [[/books/rework|Rework]]
-- [[/books/deep-work|Deep Work]]
--->
+- [[/notes/book-stolen-focus|Stolen Focus]]
+- [[/notes/book-rework|Rework]]
+- [[/notes/book-deep-work|Deep Work]]
