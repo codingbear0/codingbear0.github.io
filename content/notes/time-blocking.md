@@ -25,7 +25,7 @@ draft: true
 > [!question]
 > 대다수 사람에게 전략 블록은 일주일에 한 번이면 충분하다고 하는데, 하루 한 번이 아니라 일주일에 한 번?
 
-## from [[/books/deep-work|Deep Work]]
+## from [[/notes/book-deep-work|Deep Work]]
 딥 워크<sub>deep work</sub>를 위한 시간의 확보 방법으로 time block을 언급한다.
 
 > [!quote]
