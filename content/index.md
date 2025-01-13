@@ -6,7 +6,7 @@ defat: false
 ---
 
 
-Hi there 👋! Welcome to my digital garden, inspired by the Zettelkasten method. Here, I explore topics I’m passionate about, like Computer Science, books, games, and simple cooking.
+Hi there 👋! Welcome to my digital garden, inspired by the Zettelkasten. Here, I explore topics I’m passionate about, like computer science, books, games, and simple cooking.
 
 On this site, you can check out all notes at [[/notes|Notes]], 
 - What I’m learning at [[/coding|Coding]]
