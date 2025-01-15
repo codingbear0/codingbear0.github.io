@@ -19,13 +19,13 @@ Test-Driven Development의 약자이다. 우리말로는 테스트 주도 개발
 > [!note]
 > 2003년 Kent Beck의 언급을 보면 TDD framework인 xUnit[^2]을 만들면서 시작된 것으로 보임.
 
-[^1]: [[/coding/red-green-refactor|Red-Green-Refactor]]라고 부름.
+[^1]: [[/dev/red-green-refactor|Red-Green-Refactor]]라고 부름.
 [^2]: Smalltalk을 위한 TDD framework.
 
 <BR />
 
 ---
-## from [[/coding/book-test-driven-development-by-example|Test-Driven Development by Example]]
+## from [[/dev/book-test-driven-development-by-example|Test-Driven Development by Example]]
 > [!quote]
 > But how do we get to clean code that works? Many forces drive us away
 from clean code, and even from code that works. Without taking too much
@@ -35,7 +35,7 @@ tests, a style of development called Test-Driven Development (TDD)
 서문에 TDD의 목표는 “Clean code that works.”이며, 이를 위해 TDD라 부르는 자동화된 테스트를 통한 개발 방법을 소개한다.
 
 
-## from [[/coding/book-learning-test-driven-development|Learning Test-Driven Development]] 
+## from [[/dev/book-learning-test-driven-development|Learning Test-Driven Development]] 
 
 > [!quote]
 > Test-driven development is a technique for designing and structuring code that encourages simplicity and increases one’s confidence in code, even as its size increases.

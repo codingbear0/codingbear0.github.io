@@ -2,7 +2,6 @@
 title: Cooking
 date: 2025-01-10
 tags:
-- cooking
 - index
 draft: false
 ---
@@ -18,6 +17,7 @@ draft: false
 
 ### 반찬
 - [[/recipes/tuna-mixed-with-ssamjang|참치쌈장]]
+- [[/recipes/braised-tofu|두부조림]]
 
 ### 술안주
 - [[/recipes/steamed-abalone|전복찜]]

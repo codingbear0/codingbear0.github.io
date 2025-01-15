@@ -1,5 +1,3 @@
 ---
 title: Cooking
-tags:
-- dummy
 ---

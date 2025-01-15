@@ -1,5 +1,5 @@
 ---
-title: 두부 조림
+title: 두부조림
 date: 2025-01-16
 tags:
 - cooking

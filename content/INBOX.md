@@ -24,8 +24,8 @@ F-strings interpolation?
 
 
 ---
-
 - [[vis-à-vis]]
+
 ---
 title: vis-à-vis
 date:
@@ -45,6 +45,7 @@ tags:
 - https://www.collinsdictionary.com/dictionary/english/vis-a-vis
 - https://en.wikipedia.org/wiki/Vis-à-vis
 
+---
 - [[transformation-priority-premise]]
 > [!quote] Transformation Priority Premise (TPP) is a programming approach developed by Robert C. Martin (Uncle Bob) as a refinement to make the process of test-driven development ([[/dev/tdd|TDD]]) easier and more effective for a computer programmer.
 

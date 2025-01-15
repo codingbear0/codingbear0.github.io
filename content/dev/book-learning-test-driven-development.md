@@ -42,7 +42,7 @@ draft: false
 <!--
 ---
 > [!note] 
-> 머리말 첫 문장이 [[/coding/book-test-driven-development-by-example|Test Driven Development: By Example]]의 머리말에서 인용한 “Test-driven development is a way of managing fear during programming.”일 정도니까, 오마주일지도?
+> 머리말 첫 문장이 [[/dev/book-test-driven-development-by-example|Test Driven Development: By Example]]의 머리말에서 인용한 “Test-driven development is a way of managing fear during programming.”일 정도니까, 오마주일지도?
 
 ---
 ### 밑줄 긋기

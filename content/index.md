@@ -25,7 +25,6 @@ Want to know what I’m up to? Check out [[/now|Now]].
 - [[/notes/monolingual-fieldwork|Monolingual Fieldwork]]
 - [[/recipes/kimchi-fish-cake-noodle-soup|김치어묵국수]]
 - [[/dev/book-learning-test-driven-development|Learning Test-Driven Development]]
-- [[/dev/red-green-refactor|Red-Green-Refactor]]
 
 
 <!--

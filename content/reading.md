@@ -2,7 +2,6 @@
 title: Reading
 date: 2025-01-10
 tags:
-- book
 - index
 draft: false
 ---

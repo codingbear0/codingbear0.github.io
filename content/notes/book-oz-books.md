@@ -55,6 +55,6 @@ draft: true
 > 영화에 나오는 대사라는 건 확실한데, 책에 나오지 않는지는 직접 읽어보고 확인해야 겠다.
 
 
-[^2]: [YouTube 영상](https://www.youtube.com/watch?v=uPnfuczOWb8)
+[^2]: https://www.youtube.com/watch?v=uPnfuczOWb8
 
 
