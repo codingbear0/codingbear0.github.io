@@ -8,10 +8,7 @@ defat: false
 
 Hi there 👋! Welcome to my digital garden, inspired by the Zettelkasten. Here, I explore topics I’m passionate about, like computer science, books, games, and simple cooking.
 
-On this site, you can check out all notes at [[/notes|Notes]], 
-- What I’m learning at [[/coding|Coding]]
-- My thoughts on books at [[/reading|Reading]]
-- Easy recipes at [[/cooking|Cooking]]
+On this site, you can find all my notes at [[/notes|Notes]], and check out specific topics under [[/coding|Coding]], [[/reading|Reading]], and [[/cooking|Cooking]] respectively.
 
 Want to know what I’m up to? Check out [[/now|Now]].
 
