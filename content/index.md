@@ -20,6 +20,7 @@ Want to know what I’m up to? Check out [[/now|Now]].
 <BR />
 
 ## Recently Created
+- [[/recipes/braised-tofu|두부 조림]]
 - [[/notes/book-ultralearning|Ultralearning]]
 - [[/notes/monolingual-fieldwork|Monolingual Fieldwork]]
 - [[/recipes/kimchi-fish-cake-noodle-soup|김치어묵국수]]
