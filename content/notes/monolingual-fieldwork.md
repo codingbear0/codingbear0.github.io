@@ -30,11 +30,10 @@ draft: false
 
 ---
 ## from [[/notes/book-ultralearning|Ultralearning]]
+《울트라러닝》에서 첫번째 법칙인 ‘메타 학습’에 대한 개념을 설명하며 언급된다.
 > [!quote]
 > ‘단일어 현장 연구’<sub>monolingual fieldwork</sub> 실험이라고 부르는 $\cdots$ 이 방법은 사물과 행동들을 하나의 시퀀스로 배열해서 행위자가 그 언어를 조립할 수 있게 한다.
-
-《울트라러닝》에서 첫번째 법칙인 ‘메타 학습’에 대한 개념을 설명하며 언급된다.
-- SF 영화 ‘Arrival’에서[^2] 주인공인 언어학자 Louise Banks가 외계인의 언어를 해독하기 위해 사용한 방법.
+- ‘메타 학습’은 SF 영화 ‘Arrival’에서[^2] 언어학자 Louise Banks가 외계인의 언어를 해독하기 위해 사용한 방법이기도 함.
 
 [^2]: 우리나라는 ‘컨택트’라는 이름으로 2017년 개봉.
 

@@ -33,5 +33,6 @@ draft: false
 > 심리학에서는 ‘실행 의도’라고 부르는 개념으로, 구체적인 실행 계획을 작성해 두면 외부 환경이 바뀌지 않아도 새로운 습관을 만들기 쉽다. 계획을 따르려면 의식적으로 새로운 행동을 해야 하기 때문에 동일한 환경에서도 새로운 결과를 얻기 수월해지는 것이다.
 
 
+
 ## References
 - https://en.wikipedia.org/wiki/Implementation_intention

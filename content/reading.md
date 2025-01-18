@@ -9,13 +9,14 @@ draft: false
 지금 읽고 있는 책들은,
 - Uptime
 - [[/notes/book-ultralearning|Ultralearning]]
-- Lean Product Playbook*
+- Lean Product Playbook
 - [[/notes/book-the-witcher-book|The Witcher Book]]
 
 
 ---
 ## Past
 ### 2025
+- [[/notes/book-weinberg-on-writing|Weinberg on Writing]]
 - [[/notes/book-the-12-week-year|The 12 Week Year]]
 - [[/notes/book-silence-of-the-lambs|Silence of the Lambs]]
 
