@@ -17,11 +17,11 @@ Want to know what I’m up to? Check out [[/now|Now]].
 <BR />
 
 ## Recently Created
+- [[/recipes/egg-fried-rice|계란 볶음밥]]
 - [[/recipes/braised-tofu|두부 조림]]
 - [[/notes/book-ultralearning|Ultralearning]]
 - [[/notes/monolingual-fieldwork|Monolingual Fieldwork]]
 - [[/recipes/kimchi-fish-cake-noodle-soup|김치어묵국수]]
-- [[/dev/book-learning-test-driven-development|Learning Test-Driven Development]]
 
 
 <!--

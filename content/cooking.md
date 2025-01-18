@@ -14,6 +14,7 @@ draft: false
 - [[/recipes/soy-sauce-egg-noodles|간장계란국수]]
 - [[/recipes/kimchi-fish-cake-noodle-soup|김치어묵국수]]
 - [[/recipes/cream-pasta|크림 파스타]]
+- [[/recipes/egg-fried-rice|계란 볶음밥]]
 
 ### 반찬
 - [[/recipes/tuna-mixed-with-ssamjang|참치쌈장]]
