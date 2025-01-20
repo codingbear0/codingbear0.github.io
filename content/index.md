@@ -16,12 +16,12 @@ Want to know what I’m up to right now? Check out [[/now|/Now]].
 <BR />
 
 ## Recently Created
+- [[/grep]]
 - [[/book-data-structures-the-fun-way|Data Structures the Fun Way]]
 - [[/book-weinberg-on-writing|Weinberg on Writing]]
 - [[/recipe-egg-fried-rice|계란 볶음밥]]
 - [[/recipe-braised-tofu|두부 조림]]
 - [[/book-ultralearning|Ultralearning]]
-- [[/monolingual-fieldwork|Monolingual Fieldwork]]
 
 <!--
 - [[/draft/pep-498|PEP-498]]

@@ -18,3 +18,6 @@ draft: false
 
 ## Python
 - Fluent Python
+
+## Shell
+- [[/grep]]
