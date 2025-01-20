@@ -6,10 +6,15 @@ tags:
 draft: false
 ---
 
+## Data Structures & Algorithm
+- [[/book-data-structures-the-fun-way|Data Structures the Fun Way]]
 
 
----
-## [[/dev/tdd|TDD]], Test-Driven Development
-- [[/dev/red-green-refactor|Red-Green-Refactor]]
-- [[/dev/book-learning-test-driven-development|Learning Test-Driven Development]]
-- Test Driven Development By Example 
+## [[/tdd|TDD]], Test-Driven Development
+- [[/red-green-refactor|Red-Green-Refactor]]
+- [[/book-learning-test-driven-development|Learning Test-Driven Development]]
+- Test Driven Development By Example
+
+
+## Python
+- Fluent Python

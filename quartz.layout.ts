@@ -27,7 +27,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+        usedSavedState: false,
+        mapFn: (node) => {
+            if (node.file) {
+                // node is a file
+                if (node.displayName.length > 27) {
+                    node.displayName = node.displayName.substring(0, 26) + "…"
+                }
+            }
+            return node
+        },
+    })),
   ],
   right: [
     Component.Graph({
@@ -43,26 +54,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-Component.Explorer({
-    title: "Explorer",
-    folderClickBehavior: "collapse",
-    folderDefaultState: "collapsed",
-    usedSavedState: true,
-    sortFn: (a, b) => {
-        if ((!a.file && !b.file) || (a.file && b.file)) {
-            return a.displayName.localeCompare(b.displayName)
-        }
-        if (a.file && !b.file) {
-            return -1
-        } else {
-            return 1
-        }
-    },
-    filterFn: undefined,
-    mapFn: undefined,
-    order: ["filter", "map", "sort"],
-})
-
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
@@ -71,7 +62,18 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+        usedSavedState: false,
+        mapFn: (node) => {
+            if (node.file) {
+                // node is a file
+                if (node.displayName.length > 27) {
+                    node.displayName = node.displayName.substring(0, 26) + "…"
+                }
+            }
+            return node
+        },
+    })),
   ],
   right: [],
 }
