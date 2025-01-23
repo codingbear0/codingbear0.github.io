@@ -14,4 +14,4 @@ draft: true
 | 출판사 | O’Reilly, 2022 |
 
 
-[[/book-rating|점수]]는 -/5점.
+[[/book-rating|점수]]는 -/5.

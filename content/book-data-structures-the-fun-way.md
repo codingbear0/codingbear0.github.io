@@ -42,7 +42,7 @@ data structure 입문서.
 
 <BR />
 
-[[/book-rating|점수]]는 -/5점.
+[[/book-rating|점수]]는 -/5.
 
 
 ---

@@ -20,7 +20,7 @@ draft: true
 
 <BR />
 
-[[/book-rating|점수]]는 -/5점. 
+[[/book-rating|점수]]는 -/5. 
 
 
 ---

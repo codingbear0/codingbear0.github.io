@@ -39,7 +39,7 @@ The Lean Product Process는 Product-Market Fit Pyramid의 바닥부터 한 단�
 
 <BR />
 
-[[/book-rating|점수]]는 -/5점.
+[[/book-rating|점수]]는 -/5.
 
 
 ---

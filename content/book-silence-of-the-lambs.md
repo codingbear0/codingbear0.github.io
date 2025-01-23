@@ -14,7 +14,7 @@ draft: false
 | 지은이 | Thomas Harris |
 | 출판사 | 나무의 철학, 2023 |
 
-1991년 개봉한 동명의 영화로 더 유명한 소설[^1]이다. 
+1991년 개봉한 동명의 영화로 더 유명한 소설[^1]. 
 - 식인살인마인 Hannibal Lecter와 FBI 연수생인 Clarice Starling 그리고 또 다른 연쇄살인범인 Buffalo Bill을 다룬 이야기.
 - 영화에서 Hannibal을 연기한 Anthony Hopkins가 너무 인상 깊어 소설의 한니발은 의외로 심심한 느낌.
 
@@ -22,7 +22,7 @@ draft: false
 
 <BR />
 
-[[/book-rating|점수]]는 2/5점. 
+[[/book-rating|점수]]는 2/5. 
 - 영화와 전반적으로 큰 차이가 없어 원작 소설이 궁금하다면 한 번쯤 읽어볼 만한 책.
 
 > [!question]

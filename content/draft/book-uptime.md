@@ -24,7 +24,7 @@ draft: true
 
 <BR />
 
-[[/book-rating|점수]]는 3/5점.
+[[/book-rating|점수]]는 3/5.
 - 세 가지, 세 시간.
 - [[/book-the-12-week-year|The 12 Week Year]]와 겹치는 내용이 많은 듯?
 

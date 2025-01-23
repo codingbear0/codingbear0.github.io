@@ -4,7 +4,7 @@ date: 2025-01-18
 tags:
 - book
 - writing
-draft: false
+draft: true
 ---
 
 | | |
@@ -25,11 +25,12 @@ draft: false
 
 <BR />
 
-[[/book-rating|점수]]는 -/5점.
+[[/book-rating|점수]]는 -/5.
 
 
 ---
 ### 밑줄 긋기
+
 > [!quote]
 > 관심 없는 주제로 글을 쓰려고 애쓰지 마라.
 > 이 원칙을 따른다고 해서 매번 상사를 만족시키거나 승진하지는 못하겠지만 피투성이가 되는 일은 피할 수 있다.

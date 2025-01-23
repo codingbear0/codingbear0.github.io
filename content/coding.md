@@ -19,5 +19,10 @@ draft: false
 ## Python
 - Fluent Python
 
-## Shell
+
+## Lisp
+- Practical Common Lisp
+
+
+## Terminal
 - [[/grep]]

@@ -13,7 +13,7 @@ draft: false
 | 지은이 | Scott Young |
 | 출판사 | 비즈니스북스, 2020 |
 
-책의 서문부터 언급되지만, 저자는 MIT OpenCourseWare를 이용해 4년의 학부 과정을 1년만에 끝낸 것으로 유명한데 자신만의 학습법을 정리한 것이 울트라러닝<sub>ultralearning</sub>[^1].
+책의 서문부터 언급되지만, 저자는 MIT OpenCourseWare를 이용해 4년의 학부 과정을 1년만에 끝낸 것으로 유명해졌는데 자신만의 학습법을 정리한 것이 울트라러닝<sub>ultralearning</sub>[^1].
 
 [^1]: ‘ultra learning’이 아니라 한 단어로 ‘ultralearning’.
 
@@ -36,7 +36,7 @@ draft: false
 <BR />
 
 <!--
-[[/book-rating|점수]]는 3/5점.
+[[/book-rating|점수]]는 3/5.
 - 
 
 

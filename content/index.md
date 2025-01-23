@@ -36,4 +36,4 @@ Want to know what I’m up to right now? Check out [[/now|/Now]].
 개별 주제는 /Coding, /reading, /cooking에서 각각 확인할 수 있습니다. 이 사이트의 모든 글들은 Explorer나 Graph View를 확인하세요.
 
 혹시 지금 무얼 하고 있는지 궁금하다면 /now를 보세요.
--->
+zepy2010
