@@ -9,10 +9,10 @@ draft: false
 > [!quote]
 > Given one or more patterns, `grep` searches input files for matches to the patterns. When it finds a match in a line, it copies the line to standard output (by default), or produces whatever other sort of output you have requested with options.
 
-주어진 파일들에서 패턴들을 찾아 일치하는 행을 출력.
+주어진 파일들에서 패턴들을 찾아 일치하는 행을 출력[^1].
 
-> [!note]
-> 정확히는 패턴과 일치하는 행을 standard output으로 copy하는 것.
+
+[^1]: 정확히는 패턴과 일치하는 행을 standard output으로 copy.
 
 
 ## Synopsis
@@ -27,9 +27,9 @@ grep [option...] [patterns] [file...]
 		Mark up the matching text with the expression stored in the GREP_COLOR environment variable. The possible values of when are `never`, `always` and `auto`.
 
 - `-E`, `--extended-regexp` <BR />
-		Interpret pattern as an extended regular expression[^1].
+		Interpret pattern as an extended regular expression[^2].
 
-[^1]: `egrep` 사용하는 것과 동일.
+[^2]: `egrep`을 사용하는 것과 동일.
 
 - `-e <pattern>`, `--regexp=<pattern>` <BR />
 		Specify a pattern used during the search of the input: an input line is selected if it matches any of the specified patterns.  This option is most useful when multiple `-e` options are used to specify multiple patterns, or when a pattern begins with a dash (`‌-`).
