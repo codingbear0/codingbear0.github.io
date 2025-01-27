@@ -16,19 +16,12 @@ Want to know what I’m up to right now? Check out [[/now|/Now]].
 <BR />
 
 ## Recently Created
+- [[/the-hacker-news-top-40-books|The Hacker News Top 40 books]]
 - [[/book-version-control-with-git|Version Control with Git]]
 - [[/grep]]
 - [[/book-data-structures-the-fun-way|Data Structures the Fun Way]]
 - [[/book-weinberg-on-writing|Weinberg on Writing]]
-- [[/recipe-egg-fried-rice|계란 볶음밥]]
-- [[/recipe-braised-tofu|두부 조림]]
 
-<!--
-- [[/draft/pep-498|PEP-498]]
-- [[/draft/vis-à-vis]]
-- [[/draft/transformation-priority-premise|Transformation Priority Premise]]
-- [[/draft/book-fluent-python|Fluent Python]]
--->
 
 <!--
 안녕 👋! 이곳은 제텔카스텐 방법을 사용해 기록한 작은 디지털 가든입니다. Computer Science, 책, 게임, 간단한 요리 등 관심있는 다양한 주제를 다루고 있습니다 

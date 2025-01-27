@@ -31,7 +31,7 @@ draft: true
 > 일하는 시간 전체를 기록 $\cdots$ 시간을 블록으로 나누고 활동을 배정하라. $\cdots$ 최소 시간 단위는 30분으로 정하라. $\cdots$ 비슷한 일들을 포괄적인 과제 블록에 한데 넣는다.
 
 > [!note]
-> 전략 블록 == 딥 워크<sub>deep work</sub>
+> 전략 블록 == deep work
 
 
 ## References

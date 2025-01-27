@@ -23,8 +23,6 @@ draft: false
 [^2]: Ch. 13 부터 Ch. 18 까지.
 
 
-
-
 <!--
 - [[/git-config|git-config]]
 - [[/git-init|git-init]]
