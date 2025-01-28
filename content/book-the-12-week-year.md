@@ -3,7 +3,6 @@ title: The 12 Week Year
 date: 2025-01-07
 tags:
 - book
-- productivity
 draft: false
 ---
 

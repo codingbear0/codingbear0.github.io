@@ -3,7 +3,6 @@ title: grep
 date: 2025-01-20
 tags:
 - terminal
-- shell
 draft: false
 ---
 

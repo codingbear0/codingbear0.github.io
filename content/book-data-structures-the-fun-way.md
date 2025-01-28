@@ -4,7 +4,6 @@ date: 2025-01-19
 tags:
 - book
 - algorithm
-- data structure
 draft: false
 ---
 

@@ -2,8 +2,8 @@
 title: Moby-Dick
 date: 2024-07-07
 tags:
-- Book
-- Classic
+- book
+- classic
 draft: false
 ---
 

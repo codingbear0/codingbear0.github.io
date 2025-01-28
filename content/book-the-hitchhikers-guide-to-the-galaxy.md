@@ -2,8 +2,8 @@
 title: The Hitchhiker’s Guide to the Galaxy
 date: 2024-06-28T14:29:52+09:00
 tags:
-- Book
-- SF
+- book
+- sf
 draft: false
 ---
 

@@ -2,8 +2,8 @@
 title: Have Space Suit, Will Travel
 date: 2024-07-05
 tags:
-- Book
-- SF
+- book
+- sf
 draft: false
 ---
 
