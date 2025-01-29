@@ -15,7 +15,7 @@ draft: false
 | 출판사 | Pan Books, 1979 | 
 
 “Don’t Panic”, “42” 등으로 유명한 시쳇말로 병맛 가득한 SF소설.
-- 총 여섯 권의 책으로 이루어져 있는데 앞의 다섯 권만 Douglas Adams가 직접 쓴 것[^1][^2]:
+- 총 여섯 권의 책으로 이루어져 있는데 앞의 다섯 권만 Douglas Adams가 직접 쓴 것[^1]:
     1. The Hitchhiker's Guide to the Galaxy(1979)
     2. The Restaurant at the End of the Universe(1980)
     3. Life, the Universe and Everything(1982)
@@ -24,11 +24,11 @@ draft: false
     6. And Another Thing(2009)
 - 보통은 “The Ultimate Hitchhier’s Guide to The Galaxy” 라는 이름으로 거대한? 한 권의 책으로 판매.
 
-[^2]: 마지막 6권은 저자 사후에 Eoin Colfer에 의해 쓰여진 책
+[^1]: 마지막 6권은 저자 사후에 Eoin Colfer에 의해 쓰여진 책.
 
 <BR />
 
-[[/book-rating|점수]]는 4/5.
+[[/book-rating|점수]]는 4/5점.
 - 거대한 두께만 감당해 낼 수 있다면 재미는 보장.
 
 

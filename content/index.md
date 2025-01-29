@@ -16,11 +16,11 @@ Want to know what I’m up to right now? Check out [[/now|/Now]].
 <BR />
 
 ## Recently Created
-- [[/the-hacker-news-top-40-books|The Hacker News Top 40 books]]
+- [[/sandbox/eza|eza]]
+- [[/sandbox/the-hacker-news-top-40-books|The Hacker News Top 40 books of 2023]]
 - [[/book-version-control-with-git|Version Control with Git]]
 - [[/grep]]
-- [[/book-data-structures-the-fun-way|Data Structures the Fun Way]]
-- [[/book-weinberg-on-writing|Weinberg on Writing]]
+- [[/sandbox/book-data-structures-the-fun-way|Data Structures the Fun Way]]
 
 
 <!--

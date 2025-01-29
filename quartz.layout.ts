@@ -31,9 +31,10 @@ export const defaultContentPageLayout: PageLayout = {
         usedSavedState: false,
         mapFn: (node) => {
             if (node.file) {
-                // node is a file
-                if (node.displayName.length > 27) {
-                    node.displayName = node.displayName.substring(0, 26) + "…"
+                var limit = (node.depth > 1) ? 24 : 26
+
+                if (node.displayName.length > limit + 1) {
+                    node.displayName = node.displayName.substring(0, limit).trim() + "…"
                 }
             }
             return node
@@ -66,9 +67,10 @@ export const defaultListPageLayout: PageLayout = {
         usedSavedState: false,
         mapFn: (node) => {
             if (node.file) {
-                // node is a file
-                if (node.displayName.length > 27) {
-                    node.displayName = node.displayName.substring(0, 26) + "…"
+                var limit = (node.depth > 1) ? 24 : 26 
+
+                if (node.displayName.length > limit + 1) {
+                    node.displayName = node.displayName.substring(0, limit).trim() + "…"
                 }
             }
             return node

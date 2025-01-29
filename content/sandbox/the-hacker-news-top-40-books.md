@@ -1,5 +1,5 @@
 ---
-title: The Hacker News Top 40 books
+title: The Hacker News Top 40 books of 2023
 date: 2024-06-28
 tags:
 - book

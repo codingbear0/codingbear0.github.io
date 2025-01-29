@@ -7,7 +7,7 @@ draft: false
 ---
 
 ## Algorithm
-- [[/book-data-structures-the-fun-way|Data Structures the Fun Way]]
+- [[/sandbox/book-data-structures-the-fun-way|Data Structures the Fun Way]]
 - [Introduction to Algorithms] 
 
 ## Programming Language
@@ -19,8 +19,6 @@ draft: false
 
 <!--
 ## Database
-
-
 
 ## Operating Systems
 - [Operating Systems: Three Easy Pieces]
@@ -42,8 +40,8 @@ draft: false
 - [Pro Git]
 
 ### Shell
-- [[/grep]]
-
+- [[/snadbox/eza|ezs]]
+- [[/sandbox/grep|grep]]
 
 ## Misc.
-- [[/the-hacker-news-top-40-books|The Hacker News Top 40 books]]
+- [[/sandbox/the-hacker-news-top-40-books|The Hacker News Top 40 books of 2023]]

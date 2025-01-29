@@ -14,16 +14,15 @@ draft: false
 | 출판사 | No Starch Press, 2022 |
 
 data structure 입문서.
-- 이 분야에서 가장 많이 추천되는 Introduction to Algorithms[^1]에 비하면, 분량[^2]이나 내용 면에서 볼 때 가볍게? 맛보는 수준.
-- 특정 언어가 아닌 python과 유사한 문법의 pseudo-code [^3]로 기술.
+- 이 분야에서 가장 많이 추천되는 [Introduction to Algorithms][^1]에 비하면, 분량[^2]이나 내용 면에서 볼 때 가볍게? 맛보는 수준.
+- 특정 언어가 아닌 [Python]과 유사한 문법의 pseudo-code로 기술.
 
 [^1]: The MIT Press, 2022.
-[^2]: Introduction to Algorithms은 1,312페이지, 이 책은 304페이지. 물론 책 두께만으로 모든 걸 설명할 순 없겠지만.
-[^3]: 대체로 python과 유사하지만 변수 선언 등의 부분은 다른?
+[^2]: [Introduction to Algorithms]은 1,312페이지, 이 책은 304페이지. 물론 책 두께만으로 모든 걸 설명할 순 없겠지만.
 
 <BR />
 
-다루고 있는 주요 data structure는 다음과 같다.
+다루고 있는 주요 내용:
 - array
 - insertion sort
 - binary search
