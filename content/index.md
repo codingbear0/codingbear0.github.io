@@ -18,7 +18,7 @@ Want to know what I’m up to right now? Check out [[/now|/Now]].
 ## Recently Created
 - [[/sandbox/eza|eza]]
 - [[/sandbox/the-hacker-news-top-40-books|The Hacker News Top 40 books of 2023]]
-- [[/book-version-control-with-git|Version Control with Git]]
+- [[/sandbox/book-version-control-with-git|Version Control with Git]]
 - [[/grep]]
 - [[/sandbox/book-data-structures-the-fun-way|Data Structures the Fun Way]]
 

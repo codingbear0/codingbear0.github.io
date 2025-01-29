@@ -36,7 +36,7 @@ draft: false
 -->
 - [[/book-learning-test-driven-development|Learning Test-Driven Development]]
 - [Test Driven Development by Example]
-- [[/book-version-control-with-git|Version Control with Git]]
+- [[/sandbox/book-version-control-with-git|Version Control with Git]]
 - [Pro Git]
 
 ### Shell
