@@ -41,9 +41,8 @@ alias tree 'ls -T'
 가끔 쓰면 유용한 옵션들:
 - `-T`, `--tree`: recurse into directories as a tree
 - `-L`, `--level=(depth)`: limit the depth of recursion
-	- `--tree` 옵션과 함께 사용.
 - `-s`, `--sort=(field)`: which field to sort by
-	- 정렬 필드field는 다양한 값이 올 수 있는데, 보통 `size`, `created`, `modified`[^4] 정도?
+	- `(field)`는 다양한 값이 올 수 있는데, 보통 `size`, `created`, `modified`[^4] 정도?
 	- 역순 정렬은 `-r`, `--reverse`.
 
 [^4]: `modified`는 [mtime]을 의미. 다른 필드field 값으로 `changed`도 사용할 수 있는데, 이는 [ctime]을 의미.
@@ -51,8 +50,8 @@ alias tree 'ls -T'
 - `--total-size`: show recursive directory size
 
 - `-o`, `--octal-permissions`: list each file's permission in octal format
-- `--time-style`: how to format timestamps. valid timestamp styles are ‘default’, ‘iso’, ‘long-iso’, ‘full-iso’, ‘relative’, or a custom style
-	- 보통은 `--time-style 'long-iso’`.
+- `--time-style`: how to format timestamps. valid timestamp styles are `‘default’`, `‘iso’`, `‘long-iso’`, `‘full-iso’`, `‘relative’`, or a custom style
+	- 기본값인 ``default``를 그대로 사용하거나 혹은 `'long-iso’`.
 
 > [!warning]
 > `--total-size` 옵션은 속도가 조금? 느림. 디렉터리 depth와 파일 수에 따라 다르겠지만.
