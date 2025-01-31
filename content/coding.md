@@ -40,7 +40,7 @@ draft: false
 - [Pro Git]
 
 ### Shell
-- [[/snadbox/eza|ezs]]
+- [[/sandbox/eza|eza]]
 - [[/sandbox/grep|grep]]
 
 ## Misc.
