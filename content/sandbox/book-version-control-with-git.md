@@ -56,7 +56,7 @@ Git Command는 다음의 여섯 가지 카테고리로 구분 가능[^1]:
 [^1]: `git help -a`
 
 - [Lazygit]
-- [[/gitu|Gitu]]
+- [[/sandbox/gitu|Gitu]]
 
 ## Basic Commands
 다 정리할 필요는 없어 보이고[^1], 명령 중 잘 까먹거나 유용한 옵션 위주로 정리.
