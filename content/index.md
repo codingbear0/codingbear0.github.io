@@ -5,13 +5,14 @@ tags:
 defat: false
 ---
 
-"Hi there! 👋 Welcome to my little digital garden, where I use the Zettelkasten method. Here, I dive into all sorts of topics I’m passionate about—like computer science, books, games, and simple cooking.
+Hi there! 👋 Welcome to my digital garden, where I organize my thoughts using the [Zettelkasten] method. Here, I explore various topics I'm passionate about—from computer science and books to games and simple cooking.
 
-You can explore specific topics under [[/coding|/Coding]], [[/reading|/Reading]], and [[/cooking|/Cooking]]. To browse all my notes, check out the Explorer, or use the Graph View to see how everything’s connected.
+You can browse through topics under sections like [[/coding|Coding]], [[/reading|Reading]], and [[/cooking|Cooking]]. For a complete overview, visit the Explorer, or use the Graph View to visualize how all the notes interconnect.
 
-Want to know what I’m up to right now? Check out [[/now|/Now]].
+Curious about what I'm currently working on? Check out the [[/now|Now]] page.
 
-> [!warning] The note structure may unexpectedly change, or there might be notes that are not yet written but are linked.
+> [!warning]
+> Please note that this is a living document—the note structure may evolve over time, and you might encounter links to notes that are still in progress.
 
 <BR />
 

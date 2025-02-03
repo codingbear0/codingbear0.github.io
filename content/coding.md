@@ -12,9 +12,12 @@ draft: false
 
 ## Programming Language
 - [Fluent Python]
-- [Practical Common Lisp], PCL
+- [Learn You a Haskell for Great Good!]
+
 <!--
-- [Structure and Interpretation of Computer Programs], SICP
+- [Lisp]
+	- [Practical Common Lisp], PCL
+	- [Structure and Interpretation of Computer Programs], SICP
 -->
 
 <!--
