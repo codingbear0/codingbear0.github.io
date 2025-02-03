@@ -17,11 +17,11 @@ Curious about what I'm currently working on? Check out the [[/now|Now]] page.
 <BR />
 
 ## Recently Created
+- [[/book-quarantine|Quarantine]]
 - [[/sandbox/eza|eza]]
 - [[/sandbox/the-hacker-news-top-40-books|The Hacker News Top 40 books of 2023]]
 - [[/sandbox/book-version-control-with-git|Version Control with Git]]
 - [[/grep]]
-- [[/sandbox/book-data-structures-the-fun-way|Data Structures the Fun Way]]
 
 
 <!--

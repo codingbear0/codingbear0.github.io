@@ -31,6 +31,7 @@ draft: false
 -->
 
 - [튀김의 발견]
+- [[/book-quarantine|Quarantine]]
 - [[/book-weinberg-on-writing|Weinberg on Writing]]
 - [[/book-the-12-week-year|The 12 Week Year]]
 - [[/book-silence-of-the-lambs|Silence of the Lambs]]
