@@ -11,7 +11,11 @@ draft: false
 - [Introduction to Algorithms] 
 
 ## Programming Language
+### Python
 - [Fluent Python]
+- [[/sandbox/uv|uv]]
+
+### Haskell
 - [Learn You a Haskell for Great Good!]
 
 <!--

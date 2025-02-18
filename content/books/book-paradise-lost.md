@@ -4,7 +4,7 @@ date: 2024-07-07
 tags:
 - book
 - classic
-draft: false 
+draft: true 
 ---
 
 | | |
@@ -30,7 +30,7 @@ John Milton이 17세기에 지은 서사시.
 
 
 ---
-## from [[/book-moby-dick|Mobi-Dick]]
+## from [[/books/book-moby-dick|Mobi-Dick]]
 > [!quote]
 > 저 바다 괴물,<BR />
 > 살아 있는 피조물 가운데 가장 큰 것이<BR />
@@ -42,7 +42,7 @@ John Milton이 17세기에 지은 서사시.
 - [[/book-moby-dick|Moby-Dick]] 도입부에서 인용.
 
 
-## from [[book-Frankenstein|Frankenstein]]
+## from [[/books/book-Frankenstein|Frankenstein]]
 > [!quote] 
 > 제가 청했습니까, 창조주여, 흙으로 나를 인간으로 빚어달라고?<BR />
 > 제가 애원했습니까? 어둠에서 끌어올려달라고?

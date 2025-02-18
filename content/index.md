@@ -17,11 +17,11 @@ Curious about what I'm currently working on? Check out the [[/now|Now]] page.
 <BR />
 
 ## Recently Created
-- [[/book-quarantine|Quarantine]]
+- [[/books/book-the-trick-of-goodbye|이별의 수법]]
+- [[/books/book-evil-rabbits|나쁜 토끼]]
+- [[/books/book-quarantine|Quarantine]]
 - [[/sandbox/eza|eza]]
 - [[/sandbox/the-hacker-news-top-40-books|The Hacker News Top 40 books of 2023]]
-- [[/sandbox/book-version-control-with-git|Version Control with Git]]
-- [[/grep]]
 
 
 <!--

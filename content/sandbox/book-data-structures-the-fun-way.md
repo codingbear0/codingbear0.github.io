@@ -13,7 +13,7 @@ draft: false
 | 지은이 | Jeremy Kubica |
 | 출판사 | No Starch Press, 2022 |
 
-data structure 입문서.
+data structure, algorithm 입문서.
 - 이 분야에서 가장 많이 추천되는 [Introduction to Algorithms][^1]에 비하면, 분량[^2]이나 내용 면에서 볼 때 가볍게? 맛보는 수준.
 - 특정 언어가 아닌 [Python]과 유사한 문법의 pseudo-code로 기술.
 

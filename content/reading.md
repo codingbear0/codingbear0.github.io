@@ -30,17 +30,23 @@ draft: false
 - [Shape Up]
 -->
 
+- [[/books/book-the-trick-of-goodbye|이별의 수법]]
+- [[/books/book-evil-rabbits|나쁜 토끼]]
+- [아주 작은 습관의 힘]
+- [소비단식 일기]
+- [Uptime]
+- [Ultralearning]
 - [튀김의 발견]
-- [[/book-quarantine|Quarantine]]
+- [[/books/book-quarantine|Quarantine]]
 - [[/book-weinberg-on-writing|Weinberg on Writing]]
 - [[/book-the-12-week-year|The 12 Week Year]]
 - [[/book-silence-of-the-lambs|Silence of the Lambs]]
 
 ### 2024
 - [Stories of Your Life and Others] <!-- 7/7 -->
-- [[/book-moby-dick|Moby-Dick]] <!-- 7/7 -->
-- [[/book-frankenstein|Frankenstein]] <!-- 7/7 -->
-- [[/book-1984|1984]] <!-- 7/5 -->
+- [[/books/book-moby-dick|Moby-Dick]] <!-- 7/7 -->
+- [[/books/book-frankenstein|Frankenstein]] <!-- 7/7 -->
+- [[/books/book-1984|1984]] <!-- 7/5 -->
 - [[/book-exhalation|Exhalation]] <!-- 7/4 -->
 - [[/book-the-hitchhikers-guide-to-the-galaxy|The Hitchhiker’s Guide to the Galaxy]] <!-- 6/28 -->
 - [Mind Change] <!-- 6/24 -->

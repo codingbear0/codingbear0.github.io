@@ -49,7 +49,7 @@ draft: false
 | [Introduction to Algorithms] | Thomas H. Cormen, et al. |
 | [Refactoring] | Martin Fowler |
 | [Thinking, Fast and Slow] | Daniel Kahneman |
-| [[/book-1984|1984]] | George Orwell |
+| [[/books/book-1984|1984]] | George Orwell |
 | [Foundation] | Isaac Asimov |
 | The Lord of the Rings | J. R. R. Tolkien |
 | [Zero to One] | Peter Thiel |
