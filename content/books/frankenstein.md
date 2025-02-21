@@ -19,9 +19,10 @@ draft: false
 
 <BR />
 
-[[/book-rating|점수]]는 3/5점.
+[[/book-rating|점수]]는 -/5점.
+<!--
 - 생각보다 frankenstein을 만들어 내는 과정이나 장면에 대한 묘사가 적어서 의외였던?
-
+-->
 
 ---
 ## 밑줄 긋기

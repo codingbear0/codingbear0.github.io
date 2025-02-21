@@ -14,7 +14,7 @@ draft: true
 
 
 ---
-## from [[/book-lean-product-playbook|Lean Product Playbook]]
+## [[/books/lean-product-playbook|Lean Product Playbook]]
 > [!quote]
 > 
 

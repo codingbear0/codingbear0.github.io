@@ -41,7 +41,7 @@ draft: true
 
 
 ---
-## from [[/book-silence-of-the-lambs|Silence of the Lambs]]
+## [[/books/silence-of-the-lambs|Silence of the Lambs]]
 
 > [!quote] 
 > “좋아, 토토, 우리는 이제 더 이상 캔자스에 있지 않은 것 같아.”

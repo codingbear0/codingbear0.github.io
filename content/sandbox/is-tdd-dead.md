@@ -6,12 +6,12 @@ tags:
 draft: false
 ---
 
-[[/tdd|TDD]]의 현재와 미래에 대한 논의를 위해 Kent Beck, David Heinemeier Hansson, Martin Fowler가 진행한 일련의 대화.
+[[/sandbox/tdd|TDD]]에 대한 논의를 위해 Kent Beck, David Heinemeier Hansson, Martin Fowler가 진행한 일련의 대화.
 - 2014년 David Heinemeier Hansson가 자신의 블로그에 [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html)란 글을 게시하면서 시작.
 
 
 ---
-## from [[/book-learning-test-driven-development|Learning Test-Driven Development]]
+## [[/sandbox/learning-test-driven-development|Learning Test-Driven Development]]
 > [!quote]
 > Therefore, the practice of keeping the unit tests around, executing them regularly via
 the CI/CD server, and refining them as the production code evolves, is indispensible. In a sense, software is a building that’s always undergoing renovation even as its inhabitants actively use it; therefore, the scaffolding has to be maintained along with the habitable construction.

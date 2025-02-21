@@ -14,7 +14,7 @@ draft: false
 | 출판사 | O’Reilly, 2021 |
 
 
-[[/tdd|TDD]] 입문서.
+[[/sandbox/tdd|TDD]] 입문서.
 - 부제에서 언급된 것처럼[^1] [Go], [JavaScript], 그리고 [Python]까지 세 가지 언어로 설명.
 - Kent Beck의 [Test-Driven Development by Example]와 동일하게 `money` 예제 사용[^2].
 

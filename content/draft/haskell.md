@@ -21,12 +21,10 @@ Haskell이 pure functional language의 대표적인 예.
 
 
 ## Installation
-보통 compiler로 [[/sancbox/ghc|the Glasgow Haskell Compiler]] 사용.
+보통 compiler로 [/sancbox/ghc|the Glasgow Haskell Compiler] 사용.
 
 > [!todo]
 > 여러 구현체가 있다는 의미 같은데 compiler들을 비교한 자료를 찾아봐야겠다.
-
-
 
 
 ## Reference

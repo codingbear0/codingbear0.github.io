@@ -19,14 +19,14 @@ draft: true
 - 원래 부제는 ‘A Practical Guide to Personal Productivity and Wellbeing’인데 한글 번역본은 ‘복잡한 세상을 이기는 완전히 새로운 일의 방식’으로 낚시성이 조금 있는 듯.
 
 > [!question]
-> [[/book-the-12-week-year|The 12 Week Year]]에서도 [[/time-blocking|Time Block]] 기법을 이용한 ‘전략 블록’ 3시간을 언급하는데, 이 책에서도 3시간만 집중하라고 주장.
+> [[/books/the-12-week-year|The 12 Week Year]]에서도 [[/time-blocking|Time Block]] 기법을 이용한 ‘전략 블록’ 3시간을 언급하는데, 이 책에서도 3시간만 집중하라고 주장.
 > 이유가 있는 걸까?
 
 <BR />
 
 [[/book-rating|점수]]는 3/5점.
 - 세 가지, 세 시간.
-- [[/book-the-12-week-year|The 12 Week Year]]와 겹치는 내용이 많은 듯?
+- [[/books/the-12-week-year|The 12 Week Year]]와 겹치는 내용이 많은 듯?
 
 
 ---

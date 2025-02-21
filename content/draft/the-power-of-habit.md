@@ -17,6 +17,7 @@ draft: true
 - 부제는 ‘반복되는 행동이 만드는 극적인 변화’로 원제의 부제[^1]와는 다소 차이가 있음.
 
 [^1]: Why we do what do in life and business.
+-->
 
 <BR />
 
@@ -34,7 +35,7 @@ draft: true
 <BR />
 
 ---
-## from [[/book-the-12-week-year|The 12 Week Year]]
+## [[/books/the-12-week-year|The 12 Week Year]]
 12주 프로그램의 목표 달성을 위해 새로운 습관이 필요하며 이를 위해 이 책에서 언급된 네 가지 접근법을 소개하고 있다.
 
 > [!quote]

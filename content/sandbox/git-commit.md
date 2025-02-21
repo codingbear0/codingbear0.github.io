@@ -51,7 +51,7 @@ git commit -m "Initial contents of my_website"
 ```
 - commit log message, author 등의 metadata도 함께 기록.
 - `-m` 없이 `git commit`만 실행할 경우 외부 에디터를 통해[^1] log message 추가 가능.
-	- 사용될 외부 에디터는 [[environment-variable|환경 변수]] `$GIT_EDITOR`를 통해 설정 가능.
+	- 사용될 외부 에디터는 [environment-variable|환경 변수] `$GIT_EDITOR`를 통해 설정 가능.
 	- shell 환경 변수 `$VISUAL`과 `$EDITOR`가 설정된 경우 `$GIT_EDITOR`에 우선함.
 	- 아무 것도 설정되어 있지 않은 경우[^2] [vi] 사용.
 

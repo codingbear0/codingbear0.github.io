@@ -25,12 +25,12 @@ draft: false
 
 
 ---
-## from [[/book-the-12-week-year|The 12 Week Year]]
+## [[/books/the-12-week-year|The 12 Week Year]]
 
 > [!quote]
 > 심리학에서는 ‘실행 의도’라고 부르는 개념으로, 구체적인 실행 계획을 작성해 두면 외부 환경이 바뀌지 않아도 새로운 습관을 만들기 쉽다. 계획을 따르려면 의식적으로 새로운 행동을 해야 하기 때문에 동일한 환경에서도 새로운 결과를 얻기 수월해지는 것이다.
 
-새로운 습관을 가질 수 있는 방법으로 [[/book-the-power-of-habit|The Power of Habit]]에 언급된 네 가지 접근법 중 하나를 인용하며, 실행 의도의 개념을 짧게 언급.
+새로운 습관을 가질 수 있는 방법으로 [The Power of Habit]에 언급된 네 가지 접근법 중 하나를 인용하며, 실행 의도의 개념을 짧게 언급.
 
 
 ## References

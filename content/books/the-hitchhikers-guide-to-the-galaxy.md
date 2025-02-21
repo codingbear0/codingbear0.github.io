@@ -66,11 +66,18 @@ draft: false
 
 - 원문은 “So Long, and Thanks for All the Fish.”
 
-> [!quote] “그렇습니다. 삶, 우주, 그리고 모든 것. 답이 있습니다.” 깊은 생각이 말하고는 이렇게 덧붙였다. “하지만 생각할 시간이 필요합니다.”
+> [!quote] 
+> “그렇습니다. 삶, 우주, 그리고 모든 것. 답이 있습니다.” 깊은 생각이 말하고는 이렇게 덧붙였다. “하지만 생각할 시간이 필요합니다.”
 
 - 원문은 "Yes," said Deep Thought. "Life, the Universe, and Everything. There is an answer. But, I'll have to think about it."
 
-> [!quote] “42입니다.” 무지무지하게 엄숙하고 침착하게 깊은 생각이 말했다.
+> [!quote] 
+> “42입니다.” 무지무지하게 엄숙하고 침착하게 깊은 생각이 말했다.
 
 - 원문은 "Forty-two," said Deep Thought, with infinite majesty and calm.”
-- 750만 년 동안 생각한 뒤에, “Life, the Universe, and Everything.”에 대해 Deep Thought가 내놓은 대답.
+- “Life, the Universe, and Everything.” 이라는 질문에 Deep Thought가 750만 년 동안 생각한 뒤에 내놓은 대답.
+
+<!--
+> [!quote]
+> 인생은 멋지고 풍요로웠으며 대략 면세였다.
+-->

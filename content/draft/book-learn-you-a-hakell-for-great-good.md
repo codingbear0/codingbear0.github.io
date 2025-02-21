@@ -15,7 +15,7 @@ draft: true
 
 
 순수 함수형 언어<sub>pure functional language</sub>의 끝판왕?인 Haskell 입문서.
-- 2025년 1월 현재, [[/sandbox/ghc|The Glasgow Haskell Compiler]]의 최신 버전은 `9.12`로 책의 예제에서 사용하는 `6.12`와 다소 차이가 있지만 내용에 큰 문제는 없는 듯.
+- 2025년 1월 현재, [/sandbox/ghc|The Glasgow Haskell Compiler]의 최신 버전은 `9.12`로 책의 예제에서 사용하는 `6.12`와 다소 차이가 있지만 내용에 큰 문제는 없는 듯.
 
 
 ## 밑줄 긋기

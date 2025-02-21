@@ -7,9 +7,9 @@ draft: true
 ---
 
 > [!quote]
-> GHC is a state-of-the-art, open source compiler and interactive environment for the functional language [[/sandbox/haskell|Haskell]].
+> GHC is a state-of-the-art, open source compiler and interactive environment for the functional language [Haskell].
 
-가장 많이 쓰이는 [[/sandbox/haskell|Haskell]] compiler.
+The Glasgow Haskell Compiler, 보통 GHC라고 줄여 부르는 가장 많이 쓰이는 [Haskell] compiler.
 
 
 ## Installation

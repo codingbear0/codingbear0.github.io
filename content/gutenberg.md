@@ -21,7 +21,7 @@ Johannes Gutenberg.
 
 
 ---
-## from [[/book-the-shallows|The Shallows]]
+## [[/books/the-shallows|The Shallows]]
 > [!quote]
 > 구텐베르크의 발명 후 50년 동안 생산된 책의 양은 그 이전 1000년 동안 필경사들이 만든 책과 맞먹는 수준이었다.
 
@@ -36,7 +36,7 @@ Johannes Gutenberg.
     - 소수의 노동자만으로도 빠르게 많은 수의 책이 대량 생산되는 시대가 열림.
 - 시계의 소형화가 모든 이들이 시간을 지키게 만든 것처럼, 책의 소형화는 독서를 일상화 시킴.
 
-## from [[/book-mind-change|Mind Change]]
+## [[/books/mind-change|Mind Change]]
 > [!quote] 
 > 지식을 민주화 했다
 

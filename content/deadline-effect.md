@@ -14,7 +14,7 @@ draft: false
 
 
 ---
-## from [[/book-do-hard-things-first|Do Hard Things First]]
+## [do-hard-things-first|Do Hard Things First]
 ‘힘든 일을 먼저 하는 22가지 무기’ 중 15번째 아이템으로 언급된다.
 
 > [!quote]

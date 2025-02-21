@@ -2,6 +2,7 @@
 title: Coupling
 date: 2025-01-24
 tags:
+- terms
 draft: false
 ---
 
@@ -12,7 +13,7 @@ draft: false
 
 
 ---
-## from [[/book-learning-test-driven-development|Learning Test-Driven Development]]
+## [[/sandbox/learning-test-driven-development|Learning Test-Driven Development]]
 
 > [!quote] 
 > That is, the instability of a component is a fraction between 0 and 1. Zero indicates a completely stable component that does not depend on anything else. This is virtually impossible for any component written in a general-purpose language, since any such component would, at minimum, depend on components provided by the language. A value of 1 indicates maximum instability: such a component depends on other components and nothing depends on it.

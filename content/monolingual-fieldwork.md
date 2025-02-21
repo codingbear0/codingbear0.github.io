@@ -3,7 +3,6 @@ title: Monolingual Fieldwork
 date: 2026-01-11
 tags:
 - terms
-- movie
 draft: false
 ---
 
@@ -16,7 +15,7 @@ draft: false
 
 <BR />
 
-[[/book-ultralearning|Ultralearning]]에서 이 방법을 구체적으로 확인할 수 있는데,
+[[/books/ultralearning|Ultralearning]]에서 이 방법을 구체적으로 확인할 수 있는데,
 - 중국, 베트남, 라오스 일부 지역에서 사용하는 몽족의 방언을 학습하는 모습 설명.
 - 예를 들면,
 	- 막대기를 가리킬 때 언어 사용자가 “ηkindo” 라고 말한다면, 연구자는 “ηkindo”가 막대기인 것을 알 수 있음.
@@ -25,7 +24,7 @@ draft: false
 
 
 ---
-## from [[/book-ultralearning|Ultralearning]]
+## [[/books/ultralearning|Ultralearning]]
 
 > [!quote]
 > ‘단일어 현장 연구’<sub>monolingual fieldwork</sub> 실험이라고 부르는 $\cdots$ 이 방법은 사물과 행동들을 하나의 시퀀스로 배열해서 행위자가 그 언어를 조립할 수 있게 한다.

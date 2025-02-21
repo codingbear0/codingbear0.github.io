@@ -2,6 +2,7 @@
 title: Cyclomatic Complexity
 date: 2025-01-14
 tags:
+- terms
 draft: false
 ---
 
@@ -9,7 +10,7 @@ This measure was defined by Thomas McCabe in a paper published in 1976.
 
 
 ---
-## from [[/book-learning-test-driven-development|Learning Test-Driven Development]]
+## [[/sandbox/learning-test-driven-development|Learning Test-Driven Development]]
 
 > [!quote]
 > McCabe’s original paper recommended that developers “limit their software modules by cyclomatic complexity instead of physical size.” McCabe provided an upper limit of 10 and pragmatically called this “a reasonable, but not magical, upper limit.”

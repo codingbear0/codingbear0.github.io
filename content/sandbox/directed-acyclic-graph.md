@@ -16,7 +16,8 @@ draft: true
 > [!question]
 > 검색해 보면 blockchain 관련 글이 많이 보이는데 왜지?
 
-## from [[/sandbox/book-version-control-with-git|Version Control with Git]]
+---
+## [[/sandbox/version-control-with-git|Version Control with Git]]
 > [!quote] 
 > Git implements the history of commits within a repository as a DAG.
 - Git 내부적으로 commit history 저장을 위해 DAG를 활용한다고 기술.

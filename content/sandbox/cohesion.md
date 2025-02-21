@@ -2,6 +2,7 @@
 title: Cohesion
 date: 2025-01-24
 tags:
+- terms
 draft: false
 ---
 
@@ -12,7 +13,7 @@ draft: false
 
 
 ---
-## from [[/book-learning-test-driven-development|Learning Test-Driven Development]]
+## [[/sandbox/learning-test-driven-development|Learning Test-Driven Development]]
 
 > [!quote]
 > Cohesion is a measure of the relatedness of the code in a module. High cohesion reflects that the code in a module—method, class, or package—represents a single, unified concept.

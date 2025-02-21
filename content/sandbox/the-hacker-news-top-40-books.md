@@ -31,7 +31,7 @@ draft: false
 | [Concrete Mathematics] | [Donald E. Knuth], et al. |
 | Never Split the Difference] | Chris Voss |
 | [Dune] | Frank Herbert |
-| [[/book-the-hitchhikers-guide-to-the-galaxy|The Hitchhiker’s Guide to the Galaxy]] | Douglas Adams |
+| [[/books/the-hitchhikers-guide-to-the-galaxy|The Hitchhiker’s Guide to the Galaxy]] | Douglas Adams |
 | [Operating Systems: Three Easy Pieces] | Remzi H. Arpaci-Dusseau, et al. |
 | [Automate the Boring Stuff with Python] | Al Sweigart |
 | The Design of Everyday Things | Don Norman |
@@ -49,7 +49,7 @@ draft: false
 | [Introduction to Algorithms] | Thomas H. Cormen, et al. |
 | [Refactoring] | Martin Fowler |
 | [Thinking, Fast and Slow] | Daniel Kahneman |
-| [[/books/book-1984|1984]] | George Orwell |
+| [[/books/1984|1984]] | George Orwell |
 | [Foundation] | Isaac Asimov |
 | The Lord of the Rings | J. R. R. Tolkien |
 | [Zero to One] | Peter Thiel |
