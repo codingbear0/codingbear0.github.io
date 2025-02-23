@@ -23,14 +23,13 @@ John Milton이 17세기에 지은 서사시.
 > [!question]
 > 19세기 당시엔 베스트셀러였던 걸까? 고전을 읽다 보면 꽤 많이 인용되는데.
 
-
 <BR />
 <!--
 [[/book-rating|점수]]는 -/5점.
 -->
 
 ---
-## [[/books/moby-dick|Mobi-Dick]]
+## in [[/books/moby-dick|Mobi-Dick]]
 > [!quote]
 > 저 바다 괴물,<BR />
 > 살아 있는 피조물 가운데 가장 큰 것이<BR />
@@ -39,10 +38,10 @@ John Milton이 17세기에 지은 서사시.
 > 흡사 움직이는 땅처럼 보이며,<BR />
 > 그 아가미로 바다를 삼켰다가 숨구멍으로 내뿜는다.
 
-- [[/books/moby-dick|Moby-Dick]] 도입부에서 인용.
+- [[/books/moby-dick|Moby-Dick]]의 도입부에서 인용.
 
 
-## [[/books/frankenstein|Frankenstein]]
+## in [[/books/frankenstein|Frankenstein]]
 > [!quote] 
 > 제가 청했습니까, 창조주여, 흙으로 나를 인간으로 빚어달라고?<BR />
 > 제가 애원했습니까? 어둠에서 끌어올려달라고?

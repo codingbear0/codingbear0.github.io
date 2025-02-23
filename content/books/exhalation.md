@@ -58,11 +58,10 @@ draft: false
 - 두 단락에서 [[/the-3rd-human-and-digital-forum|The 3rd. HUMAN & DIGITAL Forum]]의 기조연설이 떠오름.
 -->
 
-> [!Question]
-> “경험은 알고리즘적으로 압축할 수 없다”는 표현은 요즈음의 AI에 대한 [Ted Chiang]의 생각을 요약한 문장이라 볼 수 있을까?
+> [!Question] “경험은 알고리즘적으로 압축할 수 없다”는 표현은 요즈음의 AI에 대한 [Ted Chiang]의 생각을 요약한 문장이라 볼 수 있을까?
 
 ### The Great Silence
 > [!quote] 
 > 그러나 떠나기 전, 우리는 인류에게 메시지를 보내고 있다. 아레시보에 있는 망원경이 그들이 그 소리를 들을 수 있게 해주기를 기원할 뿐이다. 메시지의 내용은 다음과 같다.
 > 잘 있어. 사랑해
-- 아레시보에 있는 망원경은 [Arecibo Telescope].
+- 아레시보<sub>Arecibo</sub>에 있는 망원경은 [Arecibo Telescope].

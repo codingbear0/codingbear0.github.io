@@ -3,7 +3,7 @@ title: Remote
 date: 2021-08-14
 tags:
 - book
-draft: false
+draft: true
 ---
 
 | | |

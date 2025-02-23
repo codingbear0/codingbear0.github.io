@@ -26,10 +26,12 @@ draft: false
 
 ## Terminal
 - [[/sandbox/homebrew|Homebrew]]
+- [[/sandbox/fzf|fzf]]
 - [[/sandbox/eza|eza]]
 - [[/sandbox/grep|grep]]
 - [[/sandbox/gitu|gitu]]
 
 ## Misc.
 - [[/sandbox/the-hacker-news-top-40-books|The Hacker News Top 40 books of 2023]]
+- [[/sandbox/tokyo-night-theme|Tokyo Night Theme]]
 
