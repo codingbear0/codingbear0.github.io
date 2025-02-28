@@ -16,12 +16,13 @@ Curious about what I'm currently working on? Check out the [[/now|Now]] page.
 
 <BR />
 
-## Recently Created
-- [[/sandbox/homebrew|homebrew]]
-- [[/books/the-trick-of-goodbye|이별의 수법]]
-- [[/books/evil-rabbits|나쁜 토끼]]
-- [[/books/quarantine|Quarantine]]
-- [[/sandbox/eza|eza]]
+## Recently Created 
+- [[/sandbox/zoxide|zoxide]]
+- [[/sandbox/bat|bat]]
+- [[/sandbox/tokyo-night-theme|Tokyo Night Theme]]
+- [[/sandbox/fzf|fzf]]
+- [[/sandbox/sbcl|SBCL]]
+
 
 
 <!--

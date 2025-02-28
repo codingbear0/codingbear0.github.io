@@ -2,7 +2,6 @@
 title: 두부조림
 date: 2025-01-16
 tags:
-- cooking
 - recipes
 draft: false
 ---
@@ -15,6 +14,7 @@ draft: false
 5. 두부를 팬 바닥에 깔고 볶은 채소를 두부 위에 올려준다.
 6. 물 200ml를 넣고 강한 불에서 물이 끓으면 후추 2T를 넣는다.
 7. 뚜껑을 닫고 약불로 줄여 10분간 졸인다.
+
 
 ## References
 - https://www.youtube.com/shorts/zJtWsMd8vyw

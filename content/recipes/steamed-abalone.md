@@ -2,7 +2,6 @@
 title: 전복찜
 date: 2025-01-05
 tags:
-- cooking
 - recipes
 draft: false
 ---

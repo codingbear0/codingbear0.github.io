@@ -37,8 +37,7 @@ $ miss use sbcl@2.5.1
 - 먼저 [[/sandbox/homebrew|homebrew]]로 `ecl`을 설치해야 함.
 - [asdf-vm](https://asdf-vm.com)의 [sbcl plugin](https://github.com/smashedtoatoms/asdf-sbcl)을 이용하는 듯.
 
-> [!note]
-> 설치 과정은 꽤 오래 걸리는 편. 5분? 6분?
+> [!note] 설치 과정은 꽤 오래 걸리는 편. 5분? 6분?
 
 
 혹은 [docker]:

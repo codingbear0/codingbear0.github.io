@@ -18,7 +18,8 @@ AAA급 대형 게임부터 1인 개발자가 만드는 인디 게임까지 개�
 - 현재 이 책은 절판됐고, 후속편인 ‘피, 땀, 리셋’이 출간되어 있는 상태.
 - 대형 게임은 대기업의 나름의, 인디 게임은 또 작은 개발팀 나름의 어려움이 있는 듯?
 
-> [!question] 후속편의 원제는 “Press Reset: Ruin and Recovery in the Video Game Industry”인데, 왜  “피, 땀, 리셋”이라고 했을까. 너무 초월 번역 아닐지.
+> [!question] 
+> 후속편의 원제는 “Press Reset: Ruin and Recovery in the Video Game Industry”인데, 왜  “피, 땀, 리셋”이라고 했을까. 너무 초월 번역 아닐지.
 
 <BR />
 

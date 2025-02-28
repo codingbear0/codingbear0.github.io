@@ -17,14 +17,39 @@ $ brew install fzf
 
 ## Configuration
 ```sh title="./config/fish/conf.d/fzf.fish"
+set -gx FZF_CTRL_T_OPTS "
+    --preview 'bat --color=always --style=numbers --line-range=:500 {}'
+    --bind 'ctrl-/:change-preview-window(down|hidden|)'
+    --select-1
+    --exit-0
+    "
+
+set -gx FZF_CTRL_R_OPTS "
+    --preview 'bat --color=always --style=numbers --line-range:500 {}'
+    --preview-window up:3:hidden:wrap
+    --bind 'ctrl-/:toggle-preview'
+    --bind 'ctrl-y:execute-silent(echo -n {2..} | pbcopy)+abort'
+    --color header:italic
+    "
+
+set -x FZF_ALT_C_OPTS "
+    --preview 'tree -d -F -L 2 {}'
+    "
+ 
 fzf --fish | source
 ```
-
+- preview에 [[/sandbox/bat|bat]] 이용.
 - 테마 적용은 [[/sandbox/tokyo-night-theme|Tokyo Night Theme]] 참조.
+
+
+> [!question]
+> `**`을 이용한 fuzzy completion이 [fish]에선 동작하지 않는 듯? 어떻게 해결할 수 있을까?
 
 
 ## References
 - https://github.com/junegunn/fzf
+
+
 
 
 <!--

@@ -2,7 +2,6 @@
 title: 간장계란국수 
 date: 2025-01-05
 tags:
-- cooking
 - recipes
 draft: false
 ---

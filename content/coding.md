@@ -24,14 +24,18 @@ draft: false
 - [Fluent Python]
 - [[/sandbox/uv|uv]]
 
+## Lisp
+- [[/sandbox/sbcl|SBCL]]
+
 ## Terminal
 - [[/sandbox/homebrew|Homebrew]]
-- [[/sandbox/fzf|fzf]]
+- [[/sandbox/bat|bat]]
 - [[/sandbox/eza|eza]]
-- [[/sandbox/grep|grep]]
+- [[/sandbox/fzf|fzf]]
 - [[/sandbox/gitu|gitu]]
+- [[/sandbox/grep|grep]]
+- [[/sandbox/zoxide|zoxide]]
 
 ## Misc.
 - [[/sandbox/the-hacker-news-top-40-books|The Hacker News Top 40 books of 2023]]
-- [[/sandbox/tokyo-night-theme|Tokyo Night Theme]]
 

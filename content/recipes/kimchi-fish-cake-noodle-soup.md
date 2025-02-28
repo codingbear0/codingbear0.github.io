@@ -2,7 +2,6 @@
 title: 김치어묵국수
 date: 2025-01-11
 tags:
-- cooking
 - recipes
 draft: false
 ---
@@ -16,7 +15,7 @@ draft: false
 5. 계란 2개를 풀어 계란 지단을 만든다.
 6. 삶은 소면에 `4)`의 육수를 붓고 `2)`와 `5)`의 고명을 얹어 먹는다.
 
-> [!notes] 
+> [!question] 
 > 영상으로는 2인분 이상 같은데?
 
 ## References
