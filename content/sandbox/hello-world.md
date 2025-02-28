@@ -17,7 +17,7 @@ draft: false
 
 
 ---
-## [[/books/practical-common-lisp|Practical Common Lisp]]
+## [Practical Common Lisp]
 > [!quote]
 > The venerable “hello, world” predates even the classic Kernighan and Ritchie C book that played a big role in its popularization. The original “hello, world” seems to have come from Brian Kernighan’s “A Tutorial Introduction to the Language B” that was part of the Bell Laboratories Computing Science Technical Report #8: The Programming Language B published in January 1973. 
 
@@ -26,5 +26,3 @@ draft: false
 
 ## References
 - https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
-
-
