@@ -17,14 +17,11 @@ Curious about what I'm currently working on? Check out the [[/now|Now]] page.
 <BR />
 
 ## Recently Created 
+- [[/sandbox/tiobe-index|TIOBE Index]]
 - [[/sandbox/hello-world|hello, world]]
 - [[/sandbox/a-tutorial-introduction-to-the-language-b|A Tutorial Introduction to the Language B]]
 - [[/sandbox/zoxide|zoxide]]
 - [[/sandbox/bat|bat]]
-- [[/sandbox/tokyo-night-theme|Tokyo Night Theme]]
-- [[/sandbox/fzf|fzf]]
-- [[/sandbox/sbcl|SBCL]]
-
 
 
 <!--
