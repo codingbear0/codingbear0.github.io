@@ -15,12 +15,12 @@ draft: false
 
 ### Appearance
 - General
-![[/sandbox/images/01jk7ck6n7jat9bacxdtbz895j.png|800]]
+![[/sandbox/media/01JK7CK6N7JAT9BACXDTBZ895J.png|800]]
 
 
 ### Profiles
 - Text
-![[/sandbox/images/01jk7btgsxasb84d9te9vfxj11.png|800]]
+![[/sandbox/media/01JK7BTGSXASB84D9TE9VFXJ11.png|800]]
 	- Cusor: `Underline`
 	- Blinking cursor: `true`
 	- Font: `Menlo`, `Regular`, `16` 
@@ -28,7 +28,7 @@ draft: false
 <BR />
 
 - Window
-![[/sandbox/images/01jk7bfgrtg9ct5sm8q2q84edf.png|800]]
+![[/sandbox/media/01JK7BFGRTG9CT5SM8Q2Q84EDF.png|800]]
 
 - Keys
 	- Left Option Key: `ESC+` <BR />
