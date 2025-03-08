@@ -28,7 +28,7 @@ zi foo             # cd with interactive selection (using fzf)
 ```
 
 > [!question] 
-> `fzf`가 설치되어 있지 않으면 동작하지 않겠지?
+> [[/sandbox/fzf|fzf]]가 설치되어 있지 않으면 동작하지 않겠지?
 
 
 ---
@@ -43,14 +43,14 @@ $ brew install zoxide
 set -gx _ZO_DATA_DIR ~/.cache/zoxide
 set -gx _ZO_ECHO 1
 set -gx _ZO_RESOLVE_SYMLINKS 1
-zoxide init fish --cmd cd | source
+zoxide init fish | source
 ```
 
-- `zoxide init`에 `--cmd cd`를 추가할 경우 `cd` 명령을 zoxide로 대체.
+- `zoxide init`에 `--cmd cd`를 추가할 경우 `cd` 명령을 [[/sandbox/zoxide|zoxide]]로 대체.
 - 내부적으로 path 정보에 대한 database를 만드는 듯?해서 일관성을 위해 `~/.cache/zoxide`로 설정.
 
-> [!note] 
-> 일단 `--cmd cd`로 쓰고 있는 중.
+> [!bug]
+> 단축키 `z`가 의외로 손이 잘 안가네.
 
 
 ## References

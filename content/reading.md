@@ -30,7 +30,9 @@ draft: false
 - [[/books/shape-up|Shape Up]]
 -->
 
-- [조용한 무더위]
+- [[/books/unrestful-sleep|불온한 잠]]
+- [[/books/corroded-pulley|녹슨 도르래]]
+- [[/books/quiet-blazing-summer|조용한 무더위]]
 - [[/books/the-trick-of-goodbye|이별의 수법]]
 - [[/books/evil-rabbits|나쁜 토끼]]
 - [Atomic Habits]
