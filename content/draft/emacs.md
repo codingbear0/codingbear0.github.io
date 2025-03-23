@@ -81,7 +81,29 @@ recentf-mode의 활성화는 `M-x recentf-mode`.
 └── custom-settings/ # 사용자가 저장한 설정
 └──straight/
 
+---
+title: Emacs
+date:
+tags:
+- Emacs
+draft: false
+---
+
+
+- [[/sandbox/emacs-bookmark|Bookmark]]
+
+
 # Bookmark
+
+# Emacs#Packages
+
+## descibe-
+
+`C-h P` `M-x describe-package` 패키지 정보 확인. 
+
+![[/draft/01JQ0AAZNEN4KPQWXXKDZ3ECQ9.png|600]]
+
+
 
 
 # no-littering
