@@ -17,11 +17,14 @@ Curious about what I'm currently working on? Check out the [[/now|Now]] page.
 <BR />
 
 ## Recently Created 
+- [[/sandbox/emacs-path-problem|Emacs PATH Problem]]
+- [[/sandbox/comparison-of-emacs-distributions|Comparison of Emacs Distributions]]
+- [[/sandbox/emacs|Emacs]]
+- [[/sandbox/how-do-i-exit-vim|How do I exit Vim?]]
 - [[/100-greatest-films|The 21st Century’s 100 Greatest Films]]
 - [[/books/unrestful-sleep|불온한 잠]]
 - [[/books/corroded-pulley|녹슨 도르래]]
 - [[/books/quiet-blazing-summer|조용한 무더위]]
-- [[/books/the-trick-of-goodbye|이별의 수법]]
 
 
 <!--

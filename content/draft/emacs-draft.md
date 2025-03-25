@@ -1,10 +1,12 @@
 ---
-title: Emacs
-date:
-tags:
-- Emacs
+title: Emacs Drafts
 draft: true
 ---
+
+
+# Emacs for Mac OS X vs. Emacs-plus vs. Emacs Builds
+
+
 
 
 `C-x =` `(what-cursor-position)`
@@ -17,7 +19,10 @@ draft: true
 (setq message-log-max 1000)
 ```
 
-### \*scratch\*
+=========================
+=========================
+=========================
+# \*scratch\*
 
 `C-x C-e` `(eval-last-sexp)` 커서 앞 [s-expression]을 평가.
 결과는 [echo area](https://www.gnu.org/software/emacs/manual/html_node/emacs/Echo-Area.html)에 표시되는데, 결과가 너무 길어 불편하다면 [Eldoc] 관련 설정을 수정해 echo area에 짧게 표시되도록 하거나 `C-j` `(eval-print-last-sexp)`를 이용해 현재 [s-expression] 바로 아래줄에 표시되도록 할 수 있다.
@@ -27,20 +32,28 @@ draft: true
 `(eval-last-sexp)` 등으로 실행했을 때 에러가 발생하면 Emacs debugger가 실행되는데 그 결과는 \*Backtrace\*에 표시된다. 
 
 
-### \*Backtrace\*
+=========================
+=========================
+=========================
+---
+title: Emacs \*Backtrace\*
+# \*Backtrace\*
 
 Emacs debugger의 결과가 표시되는 buffer. 종료는 `q`.
 
 
+=========================
+=========================
+=========================
 ---
-title: recentf-mode
+title: Emacs recentf-mode
 date:
 tags:
 - Emacs
 draft: false
 ---
 
-최근에 열었던 파일들을 관리하고 싶다면 recentf-mode를 활성화해야 한다. 이런 것 까지 수동으로 활성화 해야 한다는 점은 좀 의아하지만.
+최근에 열었던 파일들을 관리하고 싶다면 `recentf-mode`를 활성화해야 한다. 이런 것 까지 수동으로 활성화 해야 한다는 점은 좀 의아하지만.
 
 recentf-mode의 활성화는 `M-x recentf-mode`. 
 최근 열었던 파일 목록의 확인은 `M-x recentf-open`. 이 목록의 저장과 수정은 각각 `M-x recentf-save-list`와 `M-x recentf-edit-list`.
@@ -81,23 +94,70 @@ recentf-mode의 활성화는 `M-x recentf-mode`.
 └── custom-settings/ # 사용자가 저장한 설정
 └──straight/
 
+=========================
+=========================
+=========================
+# 
+
+
+
+=========================
+=========================
+=========================
+# Eshell
 ---
-title: Emacs
-date:
+title: Eshell
+date: 
+created: 2025-03-25
+updated: 
 tags:
-- Emacs
+- emacs
+- shell
 draft: false
 ---
 
+> [!quote] 
+> Eshell is a shell-like command interpreter implemented in Emacs Lisp.
 
-- [[/sandbox/emacs-bookmark|Bookmark]]
+[Emacs] 안에서 실행되는 [Emacs Lisp]으로 구현된 shell은 아니고 shell emulator. 실행하면 까만 화면에 prompt가 덩그라니 떠 있어서 마치 shell’처럼’ 보이는데 emulator라서 [iTerm 2]나 [Ghostty]를 실행해 볼 수 있는 shell과는 전혀 다른 어떤 것이다. 따라서 [eshell]에서 `ls`를 입력하면 현재 사용 중인 [zsh], [fish]의 `ls`가 실행되는 것이 아니라 [Emacs Lisp]으로 구현된 `ls`가 실행되는 것. 그러니까 사용 중인 shell 설정을 아무리 바꿔봐야 [eshell]에는 당연히 적용되지 않는다[^1].
+
+[^1]: alias도 `‌(eshell/alias)`로 따로 정의해야 함.
+
+shell을 여러 하드웨어에 이식할 필요 없이 Emacs Lisp만 이식하면, Emacs를 실행할 수 있고 따라서 eshell도 사용할 수 있게되니까 이식성<sub>portability</sub>을 생각하면 과거엔 더 나은 선택이었던 것 같다.
 
 
-# Bookmark
+> [!question]
+> 아직 사용법을 잘 몰라 그런지 왠지 모르게 불편한데 사람들은 잘만 써서, 내가 “아직 모르는 무언가가 있겠지” 라고 생각하며 꾹- 참고 써보는 중.
 
-# Emacs#Packages
 
-## descibe-
+=========================
+=========================
+=========================
+# Emacs Help
+
+3rd. package로 [Helpful](https://github.com/Wilfred/helpful)이 있는데, 사용하면 도움말을 알록달록 여러 색으로 표현해줘 시인성 측면에서 도움이 된다. 현재 사용 중인 설정은 아래와 같이:
+```eslisp title=“$HOME/.emacs.d/init.el
+(use-package helpful
+  :defer t
+  :bind (([remap describe-function] . helpful-function)
+         ([remap describe-symbol] . helpful-symbol)
+         ([remap describe-variable] . helpful-variable)
+         ([remap describe-command] . helpful-command)
+         ([remap describe-key] . helpful-key))
+  :custom
+  (counsel-describe-function-function #'helpful-callable)
+  (counsel-describe-variable-function #'helpful-variable))
+```
+
+
+## References
+- https://www.gnu.org/software/emacs/manual/html_mono/eshell.html
+- https://www.masteringemacs.org/article/complete-guide-mastering-eshell
+
+=========================
+=========================
+=========================
+# describe-
 
 `C-h P` `M-x describe-package` 패키지 정보 확인. 
 
@@ -105,7 +165,9 @@ draft: false
 
 
 
-
+=========================
+=========================
+=========================
 # no-littering
 
 `user-emacs-directory` 즉, `$HOME/.emacd.d/`에는 예상외로 여러 용도를 알수 없는 많은 파일이 저장되는데, 이 파일들을 내가 원하는 위치로 적절히 옮길 수 있도록 해주는 패키지. 나처럼 강박?이 있는 사람은 거의 필수라고 볼 수 있는데, 기본 설정은 아래와 같이:
@@ -164,8 +226,9 @@ draft: false
 [^1]: 무슨 역할을 하는지는 나중에 더 알아보기로 하고 일단 여기서는 꼭 필요한 파일이라는 정도로만 알아두자.
 
 
-
-=======
+=========================
+=========================
+=========================
 ---
 title: s-expression
 date:
@@ -178,8 +241,9 @@ draft: false
 “symbolic expression”으로 보통 “s-expression” 또는 “sexp” 정도로 줄여 부른다.
 
 
-========
-
+=========================
+=========================
+=========================
 ---
 title: Emacs Lisp
 date:
@@ -242,19 +306,13 @@ single quote `'`가 없는 list는 함수로 기능하는데:
 
 여기서 변수에 single-quote가 사용되면 동작이 달리지는데, 먼저 `flowers`를 평가<sub>evaluate</sub> 하면 결과값은 list 즉, `‌(rose violet daisy buttercup)`이 되지만 `'flowers`를 평가하면 결과값은 symbol 그 자체인 `flowers`가 된다. !!
 
-
-
 ## References
 - https://en.wikipedia.org/wiki/Emacs_Lisp
 
 
-
-
-
-
-
-========
-
+=========================
+=========================
+=========================
 ---
 title: An Introduction to Programming in Emacs Lisp
 date:
@@ -263,6 +321,10 @@ tags:
 - ELisp
 - 
 
+
+=========================
+=========================
+=========================
 ---
 title: Eldoc
 date:
@@ -299,10 +361,6 @@ draft: false
 
 > [!note]
 > `eldoc-echo-area-use-multiline-p`는 기본값. `eldoc-echo-area-display-truncation-message`만 `nil`로 설정해도 무난하게 괜찮은 것 같다.
-
-
-
-
 
 > [!quote]
 > This user option controls whether and how to truncate documentation text if it is longer than the echo-area can display as a single screen line. If the value is a positive number, it specifies the number of screen lines that ElDoc is allowed to display in the echo area without truncating the documentation. A positive integer specifies the absolute maximum number of screen lines to use; a floating-point number specifies the number of screen lines as a fraction of the frame’s height. The value of t means never truncate the documentation (the echo-area will be resized up to the height allowed by max-mini-window-height, see Editing in the Minibuffer), whereas the value of nil means truncate if the documentation is longer than a single screen line. Finally, the special value truncate-sym-name-if-fit (the default) means to truncate the part of the documentation that represents a symbol’s name if doing that will allow the documentation to fit on a single screen line.
@@ -363,7 +421,41 @@ eldoc-echo-area-display-truncation-message = t: 문서가 너무 길면 **생략
 > [!quote]
 > If the value is a positive number, it specifies the number of screen lines that ElDoc is allowed to display in the echo area without truncating the documentation. A positive integer specifies the absolute maximum number of screen lines to use; a floating-point number specifies the number of screen lines as a fraction of the frame’s height. The value of t means never truncate the documentation (the echo-area will be resized up to the height allowed by max-mini-window-height, see Editing in the Minibuffer), whereas the value of nil means truncate if the documentation is longer than a single screen line. Finally, the special value truncate-sym-name-if-fit (the default) means to truncate the part of the documentation that represents a symbol’s name if doing that will allow the documentation to fit on a single screen line. 
 
-
-
-References
+## References
 - https://www.masteringemacs.org/article/seamlessly-merge-multiple-documentation-sources-eldoc
+
+
+=================================
+=================================
+=================================
+---
+title: Evil
+draft: true
+---
+> [!quote] Evil is an extensible vi layer for Emacs
+
+- [[emacs|Emacs]]에 [[vim|Vim]] Key-binding을 사용할 수 있게 해주는 extension:
+    - Evil의 `v`가 [[vim|Vim]]의 `v`.
+    - 기괴한 key-binding과 [[vim|Vim]]의 mode가 없어 [[emacs|Emacs]]에 적응하지 못했던 사람들의 구원자.
+
+### References
+- https://evil.readthedocs.io/en/latest/index.html
+- https://github.com/emacs-evil/evil
+=================================
+=================================
+=================================
+---
+title: Magit
+draft: true
+---
+> [!quote] A Git Porcelain inside Emacs
+
+- [[emacs|Emacs]]를 위한 텍스트 기반 [[vcs-git|Git]] client:
+    - [[emacs|Emacs]]에서 [[vcs-git|Git]]을 사용하려면  Magit만 생각하면 됨.
+    - [[emacs|Emacs]]가 아니라 TUI를 사용해 구현[^1]한 [[vcs-gitu|Gitu]]도 존재.
+
+[^1]: [[rust|Rust]]로 구현
+
+
+### References
+- https://magit.vc

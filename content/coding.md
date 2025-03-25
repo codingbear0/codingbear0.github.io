@@ -6,26 +6,22 @@ tags:
 draft: false
 ---
 
+
+- [[/sandbox/emacs|Emacs]]
 - [[/sandbox/learning-test-driven-development|Learning Test-Driven Development]]
 - [Test Driven Development by Example]
-- [[/sandbox/version-control-with-git|Version Control with Git]]
-- [Pro Git]
-- [Learn You a Haskell for Great Good!]
+- [[sandbox/data-structures-the-fun-way|Data Structures the Fun Way]]
+- [Introduction to Algorithms] 
+- [Fluent Python]
+- [[/sandbox/uv|uv]]
+- [[/sandbox/sbcl|SBCL]]
 - [Practical Common Lisp], PCL
+- [Learn You a Haskell for Great Good!]
 <!--
 - [Structure and Interpretation of Computer Programs], SICP
 -->
-
-## Algorithm
-- [[sandbox/data-structures-the-fun-way|Data Structures the Fun Way]]
-- [Introduction to Algorithms] 
-
-## Python
-- [Fluent Python]
-- [[/sandbox/uv|uv]]
-
-## Lisp
-- [[/sandbox/sbcl|SBCL]]
+- [[/sandbox/version-control-with-git|Version Control with Git]]
+- [Pro Git]
 
 ## Terminal
 - [[/sandbox/homebrew|Homebrew]]
@@ -38,4 +34,4 @@ draft: false
 
 ## Misc.
 - [[/sandbox/the-hacker-news-top-40-books|The Hacker News Top 40 books of 2023]]
-
+- [[/sandbox/how-do-i-exit-vim|How do I exit Vim?]]

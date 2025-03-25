@@ -1,8 +1,10 @@
 ---
-title: Emacs#Bookmark
+title: Emacs Bookmarks
 date:
+created: 2025-03-23
+updated:
 tags:
-- Emacs
+- emacs
 draft: true
 ---
 
