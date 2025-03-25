@@ -22,7 +22,7 @@ draft: false
 ## Features
 - [Emacs Bookmarks]
 - [Eshell]]
-
+- [[/sandbox/emacs-proced|Emacs Proced]]
 
 ## Troubleshooting
 - [[/sandbox/emacs-path-problem|Emacs PATH Problem]]

@@ -17,6 +17,7 @@ Curious about what I'm currently working on? Check out the [[/now|Now]] page.
 <BR />
 
 ## Recently Created 
+- [[/sandbox/emacs-proced|Emacs Proced]]
 - [[/sandbox/emacs-path-problem|Emacs PATH Problem]]
 - [[/sandbox/comparison-of-emacs-distributions|Comparison of Emacs Distributions]]
 - [[/sandbox/emacs|Emacs]]
