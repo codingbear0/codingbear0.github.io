@@ -23,6 +23,12 @@ draft: false
 - [[/sandbox/version-control-with-git|Version Control with Git]]
 - [Pro Git]
 
+
+## Emacs
+- [[/sandbox/emacs|Emacs]]
+- [Eglot]
+
+
 ## Terminal
 - [[/sandbox/homebrew|Homebrew]]
 - [[/sandbox/bat|bat]]

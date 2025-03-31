@@ -14,19 +14,14 @@ draft: false
 
 [^1]: 박찬욱 감독, 2016년 작.
 
-
-## Generals
 - [[/sandbox/comparison-of-emacs-distributions|Comparison of Emacs Distributions]]
-
-
-## Features
 - [Emacs Bookmarks]
+- [[/sandbox/dired|Dired]]
 - [Eshell]]
 - [[/sandbox/emacs-proced|Emacs Proced]]
-
-## Troubleshooting
 - [[/sandbox/emacs-path-problem|Emacs PATH Problem]]
 
+<!-- - [[/sadnbox/emacs-keymap|Emacs Keymap]] -->
 
 ## References
 - https://www.gnu.org/software/emacs/

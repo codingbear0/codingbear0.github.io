@@ -17,6 +17,8 @@ Curious about what I'm currently working on? Check out the [[/now|Now]] page.
 <BR />
 
 ## Recently Created 
+- [[/recipes/chive-tuna-limbap|부추 참치 김밥]]
+- [[/sandbox/nushell|Nushell]]
 - [[/sandbox/emacs-proced|Emacs Proced]]
 - [[/sandbox/emacs-path-problem|Emacs PATH Problem]]
 - [[/sandbox/comparison-of-emacs-distributions|Comparison of Emacs Distributions]]
@@ -25,7 +27,6 @@ Curious about what I'm currently working on? Check out the [[/now|Now]] page.
 - [[/100-greatest-films|The 21st Century’s 100 Greatest Films]]
 - [[/books/unrestful-sleep|불온한 잠]]
 - [[/books/corroded-pulley|녹슨 도르래]]
-- [[/books/quiet-blazing-summer|조용한 무더위]]
 
 
 <!--

@@ -4,48 +4,6 @@ draft: true
 ---
 
 
-
-
-
-종료는 `q` `proced-quit`
-	- 
-<normal-state> *         proced-mark-all
-<normal-state> <delete>  proced-unmark-backward
-<normal-state> C         proced-mark-children
-<normal-state> M         proced-mark-all
-<normal-state> O         proced-omit-processes
-<normal-state> P         proced-mark-parents
-<normal-state> RET       proced-refine
-<normal-state> S         proced-format-interactive
-<normal-state> S-SPC     evil-scroll-up
-<normal-state> SPC       evil-scroll-down
-<normal-state> U         proced-unmark-all
-<normal-state> U         proced-unmark-all
-x]
-<normal-state> m         proced-mark
-<normal-state> o O       proced-sort-interactive
-<normal-state> o c       proced-sort-pcpu
-<normal-state> o m       proced-sort-pmem
-<normal-state> o o       proced-sort-start
-<normal-state> o p       proced-sort-pid
-<normal-state> o t       proced-sort-time
-<normal-state> o u       proced-sort-user
-<normal-state> p         proced-mark-parents
-<normal-state> q         quit-window
-<normal-state> q         quit-window
-<normal-state> r         proced-renice
-<normal-state> s         proced-filter-interactive
-<normal-state> u         proced-undo
-<normal-state> x         proced-send-signal
-<normal-state> z t       proced-toggle-tree
-<normal-state> ~         proced-toggle-marks
-<up>                     previous-line
->                        end-of-buffer
-
-
-
-
-
 `C-x =` `(what-cursor-position)`
 
 [s-expression]
@@ -134,10 +92,13 @@ recentf-mode의 활성화는 `M-x recentf-mode`.
 =========================
 =========================
 =========================
-# 
 
 
 
+## References
+- https://www.gnu.org/software/emacs/manual/html_node/elisp/Keymaps.html
+
+- 
 =========================
 =========================
 =========================
