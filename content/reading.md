@@ -6,12 +6,13 @@ tags:
 draft: false
 ---
 
+<!--
 지금 읽고 있는 책들은,
 - Uptime
 - [[/books/ultralearning|Ultralearning]]
 - Lean Product Playbook
 - [[/books/the-witcher-book|The Witcher Book]]
-
+-->
 
 ---
 ## Past
